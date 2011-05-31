@@ -1001,7 +1001,7 @@ shaper                    Reserved for LSB-Compliant Distributions              
                                                                                   
 shaperd                   Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                   
-shibd                     Shibboleth Project                                      peter.schober@univie.ac.at
+shibd                     Shibboleth Project                                      contact@shibboleth.net
                           start/stop the Shibboleth Service Provider Daemon       http://shibboleth.net/
 shorewall                 Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                   

@@ -498,7 +498,7 @@ sfs-client	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 sfs-server	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 shaper	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 shaperd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
-shibd	Shibboleth Project	peter.schober@univie.ac.at	start/stop the Shibboleth Service Provider Daemon	http://shibboleth.net/
+shibd	Shibboleth Project	contact@shibboleth.net	start/stop the Shibboleth Service Provider Daemon	http://shibboleth.net/
 shorewall	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 single	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 skeleton	Reserved for LSB-Compliant Distributions	lsb@lanana.org
