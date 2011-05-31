@@ -1,0 +1,110 @@
+18 June 2002 - Initial revision.
+30 June 2002 - Added 'hp'.
+08 July 2002 - Added 'suse'.
+10 July 2002 - Added 'zedv'.
+07 August 2002 - Added 'ibm'.
+12 August 2002 - Added 'sot'.
+23 August 2002 - Added 'faximum'.
+28 September 2002 - Added 'tivoli', 'lotus', 'aiinc'.
+29 October 2002 - Added 'nivadis'.
+13 November 2002 - Added 'unitedlinux'.
+14 November 2002 - Added 'emc'.
+16 November 2002 - Added 'nokia'.
+18 November 2002 - Added 'elvin', 'cobaro'.
+11 March 2003 - Added 'marxmeier', 'nol', 'nmkl'.
+13 March 2003 - Added 'sco'.
+07 May 2003 - Added 'etm'.
+08 May 2003 - Added 'lsb'.
+08 June 2003 - Added 'op'.
+08 June 2003 - Added 'montavista'.
+08 June 2003 - Added 'novell'.
+17 July 2003 - Added 'cllf'.
+17 July 2003 - Added 'ais'.
+06 August 2003 - Added 'rh', 'rhat'.
+15 October 2003 - Added 'intel'.
+19 November 2003 - Added 'arcom', 'sun', 'sunw'.
+08 December 2003 - Added 'reactivity'.
+05 January 2004 - Added 'escher'.
+06 January 2004 - Added 'lba'.
+20 January 2004 - Added 'momonga'.
+09 February 2004 - Added 'arkeia'.
+10 February 2004 - Added 'mysql', 'maxdb', 'inxb'.
+16 March 2004 - Added 'bea'.
+18 March 2004 - Added 'pwf'.
+03 April 2004 - Added 'ost'.
+09 April 2004 - Added 'psf'.
+14 April 2004 - Added 'python'.
+16 April 2004 - Added 'cti'.
+05 May 2004 - Added 'postgresql'.
+09 June 2004 - Added 'fsg'.
+30 June 2004 - Added 'vintela'.
+27 July - Added 'ekahau'.
+27 July - Added 'shiman'.
+27 July - Added 'dell'.
+27 July - Added 'quadrics'.
+04 August - Added 'softwareag'.
+24 August - Added 'objectweb', 'oms5', 'rd', 'teamware', 'beginfinite'.
+03 September - Added 'orion', 'orionmulti'.
+20 September - Added 'syncsort', 'zebis', 'qss'.
+27 October 2004 - Added 'gfi', 'zoran', 'mitem', 'uofu', 'wirelessz',
+	                'microfocus'
+22 November 2004 - Added 'sofcheck', 'panthera', 'intershop', 'slayfire'
+29 November 2004 - Added 'egbok'
+07 January 2005 - Added 'steeleye', 'lifekeeper', 'timesys', 'iz', 'docutron'
+09 February 2005 - Added 'semantico', 'polyserve', 'strs', 'lymeware', 'lwc', 'nhj'
+07 March 2005 - Added 'janpar'
+05 April 2005 - Added 'teradata', 'freightgate', 'osas', 'ricis'
+12 May 2005 - Added 'ctok', 'xisp', 'aurema', 'commvault', 'quest', 'ft', 'ca',
+		'mcafee', 'nai', 'edoceo', 'ciphire'
+13 July 2005 - Added 'vmetro', 'lumen', 'tmwd'
+25 July 2005 - Added 'centrify', 'centeris', 'b2'
+25 August 2005 - Added 'engenio', 'cpi', 'eoscene', 'concentrico', 'sviretail', 'idealx'
+17 October 2005 - Added 'tdi', 'mantara', 'thermeon', 'cma', 'dhi', 'dhihome',
+		'dhitechnologies', 'jssorcerer'
+01 March 2006 - Added 'bds', 'vvrts'
+07 March 2006 - Added 'capacces', 'a11y'
+10 May 2006 - Added 'vvrtspg', 'appinf', 'nrsp', 'bivio', 'acs', 'objpath',
+		'daltoneyes'
+21 August 2006 - Added 'cst', 'wn', 'tac', 'aerosoft', 'wavelink', 'myri',
+		'dis', 'centrasite', 'lemon', 'crbm'
+27 October 2006 - Added 'panda', 'baeurer', 'aspera', 'scienomics',
+		'trolltech', 'logicacmg'
+
+29 November 2006 - Added 'dovetail', 'sw', 'real', 'helix'
+28 February 2007 - Added 'netronome', 'sofistik'
+17 April 2007 - Added 'trium', 'xandros', 'ittagteam', 'ti'
+24 July 2007 - Added 'asdis', 'nokiasiemensnetworks', 'isl', 'fsc', 'mw',
+		'eprinsa', 'eris', 'philpem', 'castlecore', 'acision', 'cray'
+9 October 2007 - Added 'blackduck', 'macali', 'sas', 'cprocsp', 'nz'
+04 January 2008 - Added 'saab', 'acumem', 'wso2', 'cswitch', 'spk', 'speakeasy'
+05 March 2008 - Added 'enisoft, 'coimbragrp', 'dartware', 'fis', 'softwell'
+12 March 2008 - Added 'bowe'
+23 April 2008 - Added 'zenoss', 'nerds', 'opal', 'arinc', '454'
+15 April 2010 - Added 'cfs', 'dashwire', 'dr-utcke', 'fjsv', 'fujitsu', 
+                'google', 'liu', 'ls', 'md', 'moblin', 'ocsystems', 'orc',
+                'virtuosa', 'vm-labs', 'vti'
+	        (all xfers from google docs - actual add dates are:
+                11/24/2009, 11/18/2009, 3/3/2010, 9/15/2009, 9/15/2009,
+                11/14/2009, 1/22/2010, 9/28/2009, 1/6/2010, 11/19/2009, 9/17/2009, 11/19/2009
+                3/3/2010, 1/6/2010, 5/29/2009)
+16 April 2010 - Added 'fujixerox', s/dr-utcke/drutcke/
+19 April 2010 - Added 'perceptive'
+26 April 2010 - Added 'molisoft', 'voyager'
+27 May 2010 - Added 'linuxfoundation'
+29 May 2010 - Added 'rob'
+09 Jul 2010 - Added 'brother', moved 'syncsort'
+12 Jul 2010 - Added 'infinirel'
+21 Jul 2010 - Added 'sdm'
+04 Aug 2010 - Added 'cdsi'
+19 Aug 2010 - Added 'tpkg'
+16 Sep 2010 - Changed contact info for 'google' and 'macali'
+08 Oct 2010 - Added 'dml'
+05 Nov 2010 - Added 'puppet', 'puppetlabs'
+              First addition of "Website" to records
+29 Dev 2010 - Added 'quesgen', 'qgen'
+05 Jan 2011 - Added 'membase'
+16 Jan 2011 - Added 'percona'
+19 Jan 2011 - Added 'is'
+01 Mar 2011 - Added 'magrasoft'
+18 Mar 2011 - Added 'symas'
+

@@ -1,0 +1,160 @@
+LSB Package Names Assignee                                  Contact
+----------------- ----------------------------------------- -------------
+lsb-acquire       Acquired Intelligence Inc.                mike@aiinc.ca
+lsb-afs2000       Deansoft Co.,Ltd.                         michael@deansoft.com.tw				
+lsb-allianz       Allianz Insurance                         rainer.brunold@allianz.at	
+lsb-appgen        InsynQ Inc.                               errol@appgen.com
+lsb-arkeia        Arkeia Corporation                        aspicht@arkeia.com
+lsb-armtech       Aurema Pty Ltd                            vickyo@aurema.com
+lsb-asconnect     Aspera, Inc.                              serban@asperasoft.com
+lsb-ascp          Aspera, Inc.                              serban@asperasoft.com
+lsb-asdis         ASDIS Software AG                         support@asdis.de	
+lsb-backupexpress Backup Express by Syncsort, Inc.          klieberman@syncsort.com
+lsb-bayonne       Open Source Telecom Corp (ostel.com)      dyfet@ostel.com
+lsb-cabsviewer    Lymeware Corporation                      cfox@lymeware.com
+lsb-callweaver    Eris Associates Limited                   mjagdis@eris-associates.co.uk
+lsb-carsplus	  Thermeon Corporation                      sbn@thermeon.com
+lsb-centrifydc    Centrify Corp.                            adam.au@centrify.com
+lsb-chssbase      Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chssmailprimary Coimbra Ltd.                            attila.fulop@coimbra-grp.com	
+lsb-chssmailsupplemental Coimbra Ltd.                       attila.fulop@coimbra-grp.com	
+lsb-chsswww       Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chsscrm       Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chssbilling   Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chssticketing Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chsseucp      Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chssextsync   Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chssgroupware Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-ciphire       Ciphire Labs                              le at ciphirelabs.com
+lsb-ciphire-gw    Ciphire Labs                              le at ciphirelabs.com
+lsb-ciphire-proxy Ciphire Labs                              le at ciphirelabs.com
+lsb-connectgate   Lymeware Corporation                      cfox@lymeware.com
+lsb-coz           Co:Z Toolkit                              kirk@dovetail.com
+lsb-crms          SVI Retail                                iblackwell@sviretail.com.au	
+lsb-csr-connectgate Lymeware Corporation                    cfox@lymeware.com
+lsb-idxpki        IDEALX S.A.S.                             mathias.brossard@idealx.com
+lsb-ilec-connectgate Lymeware Corporation                   cfox@lymeware.com
+lsb-is            WSO2 Inc.                                 sanjayak@wso2.com
+lsb-ixc-connectgate Lymeware Corporation                    cfox@lymeware.com
+lsb-daltoneyes    Objective Pathology Systems               kemp@extelligence.net
+lsb-dcf           Delta C-Fax                               timborn@deltacfax.com
+lsb-dcfs          Ingenieurbüro Dr. Utcke                   sven.utcke@dr-utcke.de
+lsb-dice          DIGITAL ICE by Bishop Software            m.bishop@earthlink.net 
+lsb-docutron      Docutron Systems, Inc.                    wthibodeau@docutronsystems.com
+lsb-docview       The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
+lsb-drbd          The DRBD development team                 philipp.reisner@linbit.com	
+lsb-ekahau-client Ekahau Client by Ekahau, Inc              juha.sievanen@ekahau.com
+lsb-ekahau-engine Ekahau Positioning Engine by Ekahau, Inc  juha.sievanen@ekahau.com
+lsb-ekahau-manager Ekahau Manager by Ekahau, Inc            juha.sievanen@ekahau.com
+lsb-ekahau-sdk    Ekahau SDK by Ekahau, Inc                 juha.sievanen@ekahau.com
+lsb-ekahau-survey Ekahau Site Survey by Ekahau, Inc         juha.sievanen@ekahau.com
+lsb-eloquence     Marxmeier Software AG                     mike@marxmeier.com
+lsb-elvind        Elvin Project http://elvin.dstc.edu.au/   davida@pobox.com
+lsb-ers           Enterprise Ready Server, Covalent Tech.   dcarwin@covalent.net
+lsb-esb           WSO2 Inc.                                 sanjayak@wso2.com
+lsb-flexctrl      FlexCtrl - SCADA-System                   info@peuker-online.de	
+lsb-fsg           The Free Standards Group                  dbb@freestandards.org
+lsb-galaxy        CommVault Galaxy                          dmitriy@commvault.com
+lsb-gsreporter    454 Life Sciences                         jesse.keller@roche.com
+lsb-gsrunbrowser  454 Life Sciences                        jesse.keller@roche.com
+lsb-gsrunprocessor 454 Life Sciences                        jesse.keller@roche.com
+lsb-gsrunprocessormanager 454 Life Sciences                 jesse.keller@roche.com
+lsb-gssupporttool 454 Life Sciences                 jesse.keller@roche.com
+lsb-gtm           Fidelity National Information Services    ks.bhaskar@fnis.com
+lsb-gwatchit      Beginfinite, Inc                          mjb@gwava.com	
+lsb-gwava         Beginfinite, Inc                          mjb@gwava.com
+lsb-iagent3       Lymeware Corporation                      cfox@lymeware.com
+lsb-ivman         Rohan McGovern                            rohan@mcgovern.id.au	
+lsb-keep          Concentrico, Inc.                         skirkby@concentrico.net
+lsb-leeuwenhoek   Objective Pathology Systems               kemp@extelligence.net
+lsb-libelvin      Elvin Project http://elvin.dstc.edu.au/   davida@pobox.com
+lsb-lsf           Platform Computing                        billm@platform.com
+lsb-lucent.com-lmpi LucentTechnologies Bell Labs            rbcraig@lucent.com
+lsb-lumenation    Lumen Software                            vitali@lumensoftware.com
+lsb-mandate	  ADS Specialists, Inc.                     gedwards@ads-specialists.com
+lsb-mandateip	  ADS Specialists, Inc.                     gedwards@ads-specialists.com
+lsb-mas		  Mas by Shiman Associates Inc              leon@magic.shiman.com		
+lsb-mashup        WSO2 Inc.                                 sanjayak@wso2.com
+lsb-maxdb         MaxDB by MySQL AB                         zak@mysql.com
+lsb-mbc           SoftWell Performance AB                   tomas.ruden@softwell.se
+lsb-momonga       Momonga Project                           muraken@momonga-linux.org
+lsb-msec          GFi Software Ltd.                         raphael@gfi.com	
+lsb-mysql         MySQL by MySQL AB                         zak@mysql.com
+lsb-nerds         Network Evidential Reconstruction of Data Streams bcheese@netspeed.com.au
+lsb-netvision     NetVision, Inc                            jay.adams@netvision.com
+lsb-netvsn        NetVision, Inc                            jay.adams@netvision.com
+lsb-nps           Netezza Performance Server                psmith@netezza.com
+lsb-objectweb-cjdbc C-JDBC by ObjectWeb Consortium          lsb@objectweb.org
+lsb-objectweb-jonas JOnAS by ObjectWeb Consortium           lsb@objectweb.org
+lsb-opal          LEICON di Serenella Saccon                support@leicon.it
+lsb-openipmi      OpenIPMI                                  matt_domsch@dell.com 		
+lsb-openmanage	  OpenManage by Dell Inc                    prakash_nara@dell.com.
+lsb-panthera      Panthera GNU/Linux                        daniel.baumann@panthera-systems.net
+lsb-pediags       Dell PowerEdge Diagnostics                prabhat_biswas@dell.com
+lsb-peerfs        PeerFS Replicating Filesystem             morreale@radiantdata.com
+lsb-pip           Fidelity National Information Services    ks.bhaskar@fnis.com
+lsb-poco          Applied Informatics Software Engineeringa guenter.obiltschnig@appinf.com 
+lsb-postgresql    PostgreSQL ORDBMS                         JanWieck@Yahoo.com
+lsb-pvss          ETM Aktiengesellschaft                    koller@etm.at
+lsb-python        Python Software Foundation                mats@python.org
+lsb-qsflexlm	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsjre 	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsmsql	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsmsqllib	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnet-headers Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnet2diags	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnet2diagscommon Quadrics Ltd.			    daniel.blueman@quadrics.com
+lsb-qsnet2libs	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnetdevkit	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnetdiags	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnetlibs	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnetmpi	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnetutils	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsqsql	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsquery	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsrms	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsrmsauth	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsrmslibs	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsrmsman	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsswm	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsswmex	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsui	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qtopia        Trolltech ASA                             lpotter@trolltech.com		
+lsb-ricis         RICIS, Inc                                lsb@ricis.com		
+lsb-registry      WSO2 Inc.                                 sanjayak@wso2.com
+lsb-rob           LEICON di Serenella Saccon                roberto.taglioretti@leicon.it
+lsb-securetransport Tumbleweed Communications Corp.         mattl@tumbleweed.com
+lsb-scobrand      The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
+lsb-scolinux      The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
+lsb-skinsight     Objective Pathology Systems               kemp@extelligence.net
+lsb-slayfire      Slayfire Software Co. LLC                 hank@slayfire.com			
+lsb-smallfoot     The SCO Group (Caldera Systems Inc.)      smallfoot@sco.com
+lsb-srvadmin      Dell OpenManage Server Administrator      cecil_greathouse@dell.com
+lsb-ssvl          The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
+lsb-strs          StreamServe Ltd                           kaj.nylen@streamserve.com
+lsb-sudoscript    EGBOK Consultants                         hbo@egbok.com
+lsb-synchronet    Synchronet                                rob@synchro.net
+lsb-teamware      Teamware Group                            ken.barnes@teamware.co.uk	
+lsb-tet3-lite     The Open Group                            tetware_manager@opengroup.org
+lsb-usermin       The SCO Group (Caldera Systems Inc.)      jcameron@webmin.com
+lsb-vector        Affiliated Computer Services, Inc.        ken.rothermel@acs-inc.com
+lsb-vista         Carter-Pertaine, Inc                      ahoward@cpischool.com
+lsb-vmlcos        VM-Labs, LLC                              paul.perkins@vm-labs.com
+lsb-vmlvsa        VM-Labs, LLC                              paul.perkins@vm-labs.com
+lsb-vmlvsm        VM-Labs, LLC                              paul.perkins@vm-labs.com
+lsb-vmlvtl        VM-Labs, LLC                              paul.perkins@vm-labs.com
+lsb-vvrts         Info-Electronics Systems Inc.             bernard@info-electronics.com
+lsb-vvrtspg       Info-Electronics Systems Inc.             bernard@info-electronics.com
+lsb-wasp          Beginfinite, Inc                          mjb@gwava.com
+lsb-webfocus      Information Builders, Inc.                patrick_powers@ibi.com
+lsb-webmin        The SCO Group (Caldera Systems Inc.)      jcameron@webmin.com
+lsb-wsas          WSO2 Inc.                                 sanjayak@wso2.com
+lsb-wsf_c         WSO2 Inc.                                 sanjayak@wso2.com
+lsb-wtrex         Lymeware Corporation                      cfox@lymeware.com
+lsb-wavelink      Avalanche Mobility Center Applications    mvongunten@wavelink.com	
+lsb-xess          Applied Information Systems, Inc.         jim@ais.com
+lsb-openxdas      OpenXDAS                                  jcalcote@novell.com
+lsb-xstrade       Applied Information Systems, Inc.         jim@ais.com
+lsb-zenoss        Zenoss, Inc.                              dev@zenoss.com
+lsb-zoran-er4525-sdk Zoran Corporation                      alon.ziv@zoran.com
+lsb-zyrossdc      Insight Systems, Inc.                     splante@insightsys.com

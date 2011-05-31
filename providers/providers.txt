@@ -1,0 +1,949 @@
+LSB Assigned
+Provider Name Entity / Project / Website / Contact
+------------- -------------------------------------------------------
+
+a11y          FSG Accessibility workgroup
+		janina
+		at freestandards.org
+
+acision       Acision
+		marcel.koelewijn
+		at acision.com
+
+acs           Affiliated Computer Services, Inc.
+		ken.rothermel
+		at acs-inc.com
+
+acumem        Acumem AB
+		info
+		at acumem.com
+
+aerosoft      AeroSoft, Inc.
+		mcgrory
+		at aerosft.com
+
+aiinc         Acquired Intelligence Inc.
+                mike
+                at aiinc.ca
+
+ais           Applied Information Systems, Inc.
+                Jim Knoble
+                jim
+                at ais.com
+
+alct          Alcanet International
+		damien.veillon
+		at alcatel.fr
+
+appinf        Applied Informatics Software Engineering GmbH.
+		guenter.obiltschnig
+		at appinf.com
+
+arinc         ARINC's AIM
+		pfmartin
+		at arinc.com
+
+arcom         Arcom Embedded Linux
+                Ian Campbell
+                linux
+                at arcom.com
+
+arkeia        Arkeia Corporation
+                Arnaud Spicht
+                aspicht
+                at arkeia.com
+
+asdis         ASDIS Software AG
+		ASDIS Support
+		support
+		at asdis.de
+
+aspera        Aspera, Inc
+		serban
+		at asperasoft.com
+
+aurema        Aurema Pty Ltd
+		vickyo
+		at aurema.com
+
+b2            Baeurer GmbH
+		helge.zimpel
+		at baeurer.de
+
+baeurer       Sage baeurer GmbH
+		helge.zimpel
+		at sagebaeurer.de
+
+bds           Black Duck Software, Inc.
+		David Kaelbling
+		dkaelbling
+		at blackducksoftware.com
+
+bea           BEA Systems, Inc.
+                Arvind Jain
+                ajain
+                at bea.com
+
+beginfinite   Beginfinite, Inc.
+		mjb
+		at gwava.com
+
+bivio         Bivio Networks
+		vverma
+		at bivio.net
+	
+blackduck     Black Duck Software, Inc.
+		dkaelbling
+		at blackducksoftware.com
+
+bowe          BOWE Bell+Howell
+		vic.tolomei
+		at bowebellhowell.com
+
+brother       Brother Industries, Ltd.
+		hiromi.mori
+		at brother.co.jp
+
+ca            Computer Associates
+		lanana.registrations
+		at ca.com
+
+capaccess     Capital Accessibility
+		janina
+		at capitalaccessibility.com
+
+castlecore    Castlecore Internet Services
+		phil
+		at castlecore.com
+
+cdsi          Creative Digital Systems Integration
+		tom
+		at creativedigitalsys.com
+
+centeris      Centeris Corp.
+		info
+		at centeris.com
+
+centrasite    Software AG, Technology Alliance Center
+		technology-alliances
+		at softwareag.com
+
+centrify      Centrify Corp.
+		adam.au
+		at centrify.com
+
+cfs           Cambridge Flow Solutions
+		buildsys
+		at cambridgeflowsolutions.com
+
+ciphire       Ciphire Labs
+		le
+		at ciphirelabs.com
+
+cllf          Cloverleaf Communications, Inc.
+                Cyril.Plisko
+                at CloverleafComm.com
+
+cma           CMA Small Systems AB
+		ivan.pechorin
+		at cma.ru
+
+coimbragrp    Coimbra Ltd.
+		attila.fulop
+		at coimbra-grp.com
+
+commvault     CommVault Systems, Inc.
+		dmitriy
+		at commvault.com
+
+concentrico   Concentrico, Inc.
+		skirkby
+		at concentrico.net
+
+cpi           Carter-Pertaine, Inc.
+		ahoward
+		at cpischool.com
+
+cray          Cray Software
+		dan
+		at cray.com
+
+crbm          Crossbeam Systems
+		tmartin
+		at crossbeamsys.com
+
+cst           CST GmbH
+		Thimo Neubauer
+		thimo.neubauer
+		at cst.com
+
+cswitch       Cswitch Corporation
+		rmiller
+		at cswitch.com
+
+cti           Connect Tech, Inc.
+                Stuart MacDonald
+                stuartm
+                at connecttech.com
+
+ctok          California TOK, Inc
+		jarek.cora
+		at californiatok.com
+
+cobaro        Cobaro LLC
+                davida
+                at pobox.com
+
+covalent      Covalent Technologies
+		dcarwin at covalent.net
+
+cprocsp       Crypto-Pro, Ltd
+		cross
+		at cryptopro.ru
+
+daltoneyes    Objective Pathology Systems
+		kemp
+		at extelligence.net
+
+dartware      Dartware, LLC
+		william.w.fisher
+		at dartware.com
+
+dashwire      Dashwire, Inc
+		noc
+		at dashwire.com
+
+dell          Dell Inc.
+		prakash_nara
+		at dell.com
+
+dhi           DHI Technologies, Inc
+		rudy
+		at dhitechnologies.com
+
+dhihome       DHI Technologies, Inc
+		rudy
+		at dhitechnologies.com
+
+dhitechnologies DHI Technologies, Inc
+		rudy
+		at dhitechnologies.com
+
+dis           Danish Interpretations Systems
+		dda
+		at dis.cc
+
+dml           Dialogic Media Labs
+		harvey.lieber
+		at dialogic.com
+
+docutron      Docutron Systems, Inc.
+		wthibodeau
+		at docutronsystems.com
+
+dovetail      Dovetailed Technologies, LLC
+		kirk
+		at dovetail.com
+
+drutcke      Ingenieurbüro Dr. Utcke
+		sven.utcke
+		at dr-utcke.de
+
+edoceo        Edoceo, Inc.
+		busby@edoceo.com
+
+egbok         EGBOK Consultants
+		hbo at
+		egbok.com
+
+ekahau        Ekahau, Inc
+		juha.sievanen
+		at ekahau.com
+
+elvin         Elvin Project, David Arnold
+                davida
+                at pobox.com
+
+emc           EMC Corporation
+                archer_gary
+                at emc.com
+
+enisoft       Coimbra Ltd.
+		attila.fulop
+		at coimbra-grp.com
+
+engenio       Engenio Information Technologies, Inc
+		danny.pevoto
+		at engenio.com
+
+eoscene       Eoscene Corporation
+		arean.vanveelen
+		at eoscene.com
+
+eprinsa       EPRINSA Empresa Provincial de Informatica S.A.
+		mcasti
+		at eprinsa.es
+
+eris          Eris Associates Limited
+		mjagdis
+		at eris-associates.co.uk
+
+escher        Escher Technologies Limited, Aldershot UK
+                dcrocker
+                at eschertech.com
+
+etm           ETM Aktiengesellschaft, Martin Koller
+                koller
+                at etm.at
+
+faximum       Faximum Software Inc.
+                George.Pajari
+                at faximum.com
+
+fis           Fidelity National Information Services
+		ks.bhaskar
+		at fnis.com
+
+fjsv          Fujitsu Limited
+		ishii.hironobu
+		at jp.fujitsu.com
+
+454           454 Life Sciences
+		jesse.keller@roche.com
+
+freightgate   Freightgate, Inc
+		info
+		at freightgate.com
+
+fsc           Fujitsu Siemens Computers GmbH
+	   	lothar.nowak
+		at fujitsu-siemens.com
+
+fsg           The Free Standards Group
+                Doug Beattie, dbb
+                at freestandards.org
+
+ft            Stratus Technologies, Inc.
+		robert.evans
+		at stratus.com
+
+fujitsu       Fujitsu Limited
+		ishii.hironobu
+		at jp.fujitsu.com
+
+fujixerox     Fuji Xerox Co., Ltd.
+		osamu.mihara
+		at fujixerox.co.jp
+
+gfi           GFi Software Ltd.
+		raphael
+		at gfi.com
+
+google        Google, Inc.
+		caskey
+		at google.com
+
+helix         Helix Community
+		dshirzad
+		at real.com
+
+hp            Hewlett-Packard Company
+                john.cagle
+                at hp.com
+
+ibm           International Business Machines
+                gk4
+                at austin.ibm.com
+
+idealx        IDEALX S.A.S.
+		mathias.brossard
+		at idealx.com
+
+infinirel     infiniRel Corporation
+		doug.knabe
+		at infinirel.com
+
+intel         Intel Corporation
+                mats.d.wichmann
+                at intel.com
+
+intershop     Intershop
+		t.boehm
+		at intershop.com
+
+inxb          Inexbee
+                loic.minier
+                at inexbee.com
+
+is            Friedrich Schiller University of Jena, FMI
+		Uwe Richter
+		uwe.richter
+		at uni-jena.de
+
+isl           Imagineer Systems Ltd.
+		wouterk
+		at imagineersystems.com
+
+ittagteam     IT Tag Team, Inc.
+		syd
+		at ittagteam.com
+
+iz            InterZone
+		mk
+		at interzone.gr
+
+janpar        January Party Software
+		janpar
+		at xmission.com
+
+jssorcerer    DHI Technologies, Inc
+		rudy
+		at dhitechnologies.com
+
+lba           Linux Business Alliance
+                info
+                at linuxalliance.org
+
+lemon         Lemon Computing limited
+		cnw at lemon-computing.com
+
+lifekeeper    SteelEye Technology, Inc.
+		support
+		at steeleye.com
+
+linuxfoundation 	The Linux Foundation
+			  stewb
+			  at linuxfoundation.org
+
+liu           Linkoping University
+		magnus.gustavsson
+		at liu.se
+
+logicacmg     LogicaCMG
+		marcel.koelewijn
+		at logicacmg.com
+
+lotus         Lotus Software from IBM
+                heffler
+                at us.ibm.com
+
+ls            Lingua-Systems Software GmbH
+		info
+		at lingua-systems.com
+
+lsb           Linux Standard Base
+                gk4
+                at austin.ibm.com
+
+lumen         Lumen Software
+		bcavalieri
+		at lumensoftware.com
+
+lymeware      Lymeware Corporation
+		cfox
+		at lymeware.com
+
+lwc           Lymeware Corporation
+		cfox
+		at lymeware.com
+
+macali        MACALI
+		linux
+		at macali.org
+
+magrasoft     Magrasoft Ltd
+		Jolyon Wright
+		jolyon
+		at magrasoft.com
+
+mantara       Mantara Software
+		lsb
+		at mantara.com
+
+marxmeier     Marxmeier Software AG
+                mike
+                at marxmeier.com
+
+maxdb         MySQL AB
+                zak
+                at mysql.com
+
+mcafee        McAfee Inc
+		girish_narkhede
+		at mcafee.com
+
+md            Molecular Discovery Ltd.
+		giallu
+		at moldiscovery.com
+
+membase       Membase,Inc. and the membase.org Open Source project
+		http://www.membase.org
+		Matt Ingenthron
+		matt
+		at membase.com
+
+microfocus    Micro Focus
+		michael.waters
+		at microfocus.com
+
+mitem         MITEM Corp.
+		croft
+		at mitem.com
+
+moblin        Intel
+		bob.spencer
+		at intel.com
+
+molisoft      Molisoft grupo empresarial S.L.
+		miguel.molinos
+		at molisoft.com
+
+momonga       Momonga Project
+                muraken
+                at momonga-linux.org
+
+montavista    MontaVista Software, Inc.
+                mhatle
+                at mvista.com
+
+mw            Moonwalk Universal P/L
+		support
+		at moonwalkinc.com
+
+myri          Myricom, Inc.
+		help
+		at myri.com
+
+mysql         MySQL AB
+                zak
+                at mysql.com
+
+nai           McAfee Inc.
+		girish_narkhede
+		at mcafee.com
+
+nerds         Network Evidential Reconstruction of Data Streams
+		bcheese
+		at netspeed.com.au
+
+netronome     La Monte H.P. Yarroll
+		piggy
+		at netronome.com
+
+nhj           John Halleck
+		john.halleck
+		at utah.edu
+
+nivadis       Nether-Saxony Police Bureau Project NIVADIS
+                Polizeiamt fuer technik und beschaffung niedersachsen
+                rolf.dignatz
+                at patbni.polizei.niedersachsen.de
+
+nmkl          Norbert M.K. Lemke
+                lsb
+                at unterbiberg.de
+
+nokia         Nokia Linux Project
+                jyrki.stenvall
+                at nokia.com
+
+nokiasiemensnetworks          Nokia Siemens Networks
+				janne.siren
+				at nsn.com
+
+nol           Norbert M.K. Lemke
+                lsb
+                at unterbiberg.de
+
+novell        Novell, Inc.
+                pmackay
+                at novell.com
+
+nr            Bivio Networks
+		vverma
+		at bivio.net
+
+nz            Netezza Corp
+		psmith
+		at netezza.com
+
+objectweb     ObjectWeb Consortium
+		lsb
+		at objectweb.org
+
+objpath       Objective Pathology Systems
+		kemp
+		at extelligence.net
+
+ocsystems     OC Systems
+		oec
+		at ocsystems.com
+
+oms5          Seattle Support Team, Inc.
+		denny
+		at seattlesupport.com
+
+op            Open Paradigms, LLC
+                tim
+                at openparadigms.com
+
+opal          LEICON di Serenella Saccon
+		support
+		at leicon.it
+
+orc           Owl River Company
+		info
+		at owlriver.com
+
+orion         Orion Multisystems, Inc
+		juphoff
+		at orionmulti.com
+
+orionmulti    Orion Multisystems, Inc
+		juphoff
+		at orionmulti.com
+
+osas          Open Systems, Inc.
+		davel
+		at osas.com
+
+ost           Open Source Telecom Corp.
+                David Sugar
+                dyfet
+                at ostel.com
+
+rd            Radiant Data Corporation
+		morreale
+		at radiantdata.com
+
+panda         Panda Software International, S.L.
+		elacunza
+		at pandasoftware.es
+
+panthera      Panthera Systems
+		daniel.baumann
+		at panthere-systems.net
+
+perceptive    Perceptive Pixel, Inc.
+		ian
+		at perceptivepixel.com
+
+percona       Percona Inc.
+		Percona Server with XtraDB
+		http://www.percona.com/software/percona-server/
+		Aleksandr Kuzminsky
+		aleksandr.kuzminsky
+		at percona.com
+
+philpem       Philip Pemberton
+		philpem
+		at philpem.me.uk
+
+postgresql    PostgreSQL Global Development Group
+                Jan Wieck
+                JanWieck
+                at yahoo.com
+
+psf           Python Software Foundation
+                Mats D. Wichmann
+                mats
+                at python.org
+
+puppet        Puppet Labs, Inc.
+		http://www.puppetlabs.com/
+		Garrett Honeycutt
+		garrett
+		at puppetlabs.com
+
+puppetlabs    Puppet Labs, Inc.
+		http://www.puppetlabs.com/
+		Garrett Honeycutt
+		garrett
+		at puppetlabs.com
+
+pwf           University of Cambridge Computing Service
+                PWF Linux, Ben Harris
+                pwf-linux
+                at ucs.cam.ac.uk
+
+polyserve     PolyServeInc.
+		lsb
+		at polyserve.com
+
+python        Python Software Foundation
+                Mats D. Wichmann
+                mats
+                at python.org
+
+qgen          QuesGen Systems, Inc.
+		mike.jarrett
+		at quesgen.com
+
+qss	      Quintessential School Systems
+		duane
+		at qss.com
+
+quadrics      Quadrics Ltd.
+		daniel.blueman
+		at quadrics.com
+
+quesgen       QuesGen Systems, Inc.
+		mike.jarrett
+		at quesgen.com
+
+quest         Quest Software Inc.
+		robert.clark
+		at quest.com
+
+real          RealNetworks, Inc.
+		dshirzad
+		at real.com
+
+rh            Red Hat, Inc.
+                msw+lsb
+                at redhat.com
+
+rhat          Red Hat, Inc.
+                msw+lsb
+                at redhat.com
+
+reactivity    Reactivity, Inc.
+                Jared Smith-Mickelson
+                jaredsm
+                at alum.mit.edu
+
+ricis         RICIS, Inc.
+		lsb
+		at ricis.com
+
+rob           Rob Linux
+		Roberto Taglioretiti, LEICON di Serenella Saccon 
+		roberto.taglioretti
+		at leicon.it
+
+saab          Saab AB
+		anders.ronnbrant
+		at saabgroup.com
+
+sco           The SCO Group (Caldera Systems Inc.)
+                linuxtech
+                at sco.com
+
+sdm           Shoppers Drug Mart Inc.
+		apetropoulos
+		at shoppersdrugmart.ca
+
+semantico     Semantico Ltd.
+		lanana
+		at semantico.com
+
+shiman        Shiman Associates, Inc.
+		leon
+		at magic.shiman.com
+
+sviretail     SVI Retail
+		iblackwell
+		at sviretail.com.au
+
+syncsort      Syncsort, Inc.
+		Karen Lieberman
+		klieberman
+		at syncsort.com
+
+sas           SAS Institute, Inc.
+		steve.holzworth
+		at sas.com
+
+scienomics    Scienomics
+		joerg-ruediger.hill
+		at scienomics.com
+
+slayfire      SlayFire Software Co. LLC
+		hank
+		at slayfire.com
+
+sofcheck      SofCheck, Inc.
+		stt
+		at sofcheck.com
+
+sofistik      SOFiSTiK AG
+		herald.nikolisin
+		at sofistik.de
+
+softwareag    Software AG, Technology Alliance Center
+                technology-alliances
+		at softwareag.com
+		
+softwell      SoftWell Performance AB
+		tomas.ruden@softwell.se
+
+sot           SOT Finnish Software Engineering Ltd.
+                packager
+                at sot.com
+
+spk           Speakeasy, Inc.
+		ghoneycutt
+		at hq.speakeasy.net
+
+speakeasy     Speakeasy, Inc.
+		ghoneycutt
+		at hq.speakeasy.net
+
+steeleye      SteelEye Technology, Inc.
+		support
+		at steeleye.com
+
+strs          StreamServe Ltd.
+		kaj.nylen
+		at streamserve.com
+
+sun           Sun Microsystems, Inc.
+                Christopher P Johnson
+                christopher.p.johnson@sun.com
+
+sunw          Sun Microsystems, Inc.
+                Christopher P Johnson
+                christopher.p.johnson@sun.com
+
+suse          SuSE Linux AG
+                kukuk
+                at suse.de
+
+sw            SWsoft, Inc.
+		mgusarov
+		at swsoft.com
+
+symas         Symas Corporation
+		Matthew Hardin
+		mhardin
+		at symas.com
+
+tac           TAC
+		allan.bjorck
+		at tac.com
+
+tdi           TECSys Development, Inc.
+		support 
+		at tditx.com
+
+teamware      Teamware Group
+		ken.barnes
+		at teamware.co.uk
+
+teradata      Teradata, Division of NCR
+		todd.sylvester
+		at ncr.com
+
+thermeon      Thermeon Corporation
+		sbn
+		at thermeon.com
+
+ti            Texas Instruments
+		d-knabe
+		at ti.com
+
+timesys       TimeSys Corporation
+		piggy
+		at netronome
+
+tivoli        Tivoli Software from IBM
+                heffler
+                at us.ibm.com
+
+tmwd          Tumbleweed Communications Corp.
+		mattl
+		at tumbleweed.com
+
+tpkg          tpkg project
+		jheiss
+		at aput.net
+
+trium         Trium Sistemas Informaticos SL
+		sfernandez
+		at triumsistemas.com
+
+trolltech     Trolltech ASA
+		lpotter
+		at trolltech.com
+
+unitedlinux   UnitedLinux LLC
+                kukuk
+                at suse.de
+
+uofu          University of Utah, Office of Information Techology
+		support
+		at it.utah.edu
+
+vintela       Vintela, Inc.
+                glewis
+                at vintela.com
+
+virtuosa      Virtuosa Limited
+		asset.manager
+		at virtuosa.ltd.uk
+
+vmetro        VMETRO
+		nclausen
+		at vmetro.com
+
+vm-labs       VM-Labs, LLC
+		paul.perkins
+		at vm-labs.com
+
+voyager       Voyager Software, LLC
+		smt
+		at vgersoft.com
+
+vti           VTI Instruments Corporation
+		dsmith
+		at vtiinstruments.com
+
+vvrts         Info-Electronics Systems Inc.
+		bernard
+		at info-electronics.com
+
+vvrtspg       Info-Electronics Systems Inc.
+		bernard
+		at info-electronics.com
+
+wavelink      Wavelink Corporation
+		mvongunten
+		at wavelink.com
+
+wirelessz     WirelessZ Technologies Ltd.
+		erkka.marjakangas
+		at wt.fi
+
+wn            Wincor Nixdorf International GmbH
+		bjoern.gerhart
+		at wincor-nixdorf.com
+		niels.devos
+		at wincor-nixdorf.com
+
+wso2          WSO2 Inc.
+		sanjayak
+		at wso2.com
+
+xandros       Xandros Inc.
+		daven
+		at xandros.com
+
+xisp          Barnhard LLC
+		lanana-contact
+		at xisp.net
+
+zebis         ZEBIS GmbH
+		info
+		at zebis-gmbh.de
+
+zedv          ZEDV Physik FU Berlin
+                tobias.burnus
+                at physik.fu-berlin.de
+
+zenoss        Zenoss, Inc.
+		dev
+		at zenoss.com
+
+zoran         Zoran Corporation
+		alon.ziv
+		at zoran.com

@@ -1,0 +1,138 @@
+18 June 2002 - Initial revision.
+09 July 2002 - Added cups, isdn, network, yppasswdd, ypserv, ypxfrd for LSB.
+09 July 2002 - Added rpasswdd for pwdutils package (kukuk@suse.de).
+09 July 2002 - Added rpcbind for TI-RPC port for Linux (kukuk@suse.de).
+09 July 2002 - Added amavis, amavisd for AMaViS project (amavis@amavis.org).
+23 August 2002 - Added faximum for Faximum Software (George.Pajari@faximum.com).
+28 September 2002 - Added acquire for Acquired Intelligence (mike@aiinc.ca).
+23 October 2002 - Added mimersql for Upright DB Techn. AB (per.bengtsson@upright.se).
+03 November 2002 - Added lmsd for LAN Management System Daemon (baseciq@baseciq.org).
+16 November 2002 - Added smartd for smartmontools (sbrabec@suse.cz).
+17 February 2003 - Added capisuite for CapiSuite - SuSE Linux AG (ghillie@suse.de).
+11 March 2003 - Added ovpa for HP OpenView Performance Agent (dwight.young@hp.com).
+11 March 2003 - Added eloquence for Marxmeier Software AG (mike@marxmeier.com).
+11 March 2003 - Added cpoint, craits, chainmail for Caversham CS Ltd (wrd@cavcomp.co.uk).
+13 March 2003 - Added ssvl for SCO Group (linuxtech@sco.com).
+13 March 2003 - Added usermin,webmin for SCO Group (jcameron@webmin.com).
+14 March 2003 - Added docview,scobrand for SCO Group (linuxtech@sco.com).
+07 May 2003 - Added pvss for ETM Aktiengesellschaft (koller@etm.at).
+08 June 2003 - Added esound for Enlightenment and Gnome sound daemon (sbrabec@suse.cz).
+17 July 2003 - Added xess and xstrad (jim@ais.com).
+23 December 2003 - Added jboss (pmladek@suse.cz).
+20 January 2004 - Added momonga (muraken@momonga-linux.org).
+02 February 2004 - Added garpd (marko.kupiainen@garp.se).
+09 February 2004 - Added arkeia (aspicht@arkeia.com).
+10 February 2004 - Added mysql and maxdb (zak@mysql.com).
+03 April 2004 - Added bayonne (dyfet@ostel.com).
+05 May 2004 - Changed postgresql to be assigned to the PostgreSQL project (JanWieck@Yahoo.com).
+06 May 2004 - Added db2icd (ihakes@ca.ibm.com).
+09 June 2004 - Added fsg.
+27 July 2004 - Added newscache for Herbert Straub (herbert@linuxhacker.at).
+27 July 2004 - Added mpagent, mpservices, mpwebsvc for United Devices (jlawson@ud.com).
+27 July 2004 - Added ekahau-engine for Ekahau, (juha.sievanen@ekahau.com).
+27 July 2004 - Added mas for Shiman Associates Inc, (leon@magic.shiman.com).
+27 July 2004 - Added drbd for The DRBD development team, (philipp.reisner@linbit.com).
+27 July 2004 - Added openmanage for Dell Inc, (prakash_nara@dell.com).
+27 July 2004 - Added qsnet, rms for Quadrics Ltd (daniel.blueman@quadrics.com).
+04 August 2004 - Added Jeff Lawson (bovine@distributed.net) as contact for distributed-net 
+		 and distributed-net-pproxy.
+24 August 2004 - Added jonas for ObjectWeb Consortium, (lsb@objectweb.org).
+24 August 2004 - Added peerfs for Radiant Data Corp, (morreale@radiantdata.com).
+24 August 2004 - Added teamware for Teamware Group, (ken.barnes@teamware.co.uk).
+24 August 2004 - Added gwatchit, gwava, gwava-poa, wasp for Beginfinite, (mjb@gwava.com).
+20 September 2004 - Added backupexpress for Syncsort, Inc (klieberman@syncsort.com).
+20 September 2004 - Added subdomain for Immunix (dominic@immunix.com).
+20 September 2004 - Added alkahest for the Alkahest Initiative (eric_windham@ncsu.edu).
+27 October 2004 - Added msec-daemon, msec-milter for GFi Software Ltd. (raphael@gfi.com).
+                  Added cjdbc for ObjectWeb Consortium (lsb@objectweb.org).
+05 November 2004 - Added omreports, getport for University of Utah Office of
+IT (support@it.utah.edu).
+22 November 2004 - Added panthera for Panthera Systems (daniel.baumann@panthera-systems.net)
+29 November 2004 - Added sudoscript for EGBOK Consultants (hbo@egbok.com)
+07 January  2005 - Added afs for DeanSoft Co.,Ltd.
+09 February 2005 - Added smad, smcd, smwd for SyAM Software, Inc. (michael.daniele@syamsoftware.com)
+09 February 2005 - Added polyserve for PolyServer Inc. (lsb@polyserve.com)
+09 February 2005 - Added strs for StreamServer Ltd. (kaj.nylen@streamserve.com)
+09 February 2005 - Added iagent, iagent3, connectgate, wtrex for Lymeware Corporation (cfox@lymeware.com)
+05 April 2005 - Added qmail
+05 April 2005 - Added allianz for Allianz Insurance (rainer.brunold@allianz.at)
+05 April 2005 - Added ricis for RICIS, Inc. (lsb@ricis.com)
+12 May 2005 - Added ciphire, ciphire-gw, ciphire-proxy for Ciphire Labs (le at ciphirelabs.com)
+12 May 2005 - Added armtech for Aurema Pty Ltd (vickyo@aurema.com)
+12 May 2005 - Added galaxy for CommVault Systems, Inc (dmitriy@commvault.com)
+12 May 2005 - Added caantivirus for Computer Associates (lanana.registrations@ca.com)
+13 July 2005 - Added irqbalance for SUSE LINUX Products (sf@suse.de)
+13 July 2005 - Added securetransport for Tumbleweed Communications Corp. (mattl@tumbleweed.com)
+25 July 2005 - Added centrifydc for Centrify Corp (adam.au@centrify.com)
+25 July 2005 - Added lcd4linux (tsieden@suse.de)
+25 July 2005 - Added nmb (lmuelle@suse.de)
+25 July 2005 - Added powersaved (trenn@suse.de)
+25 July 2005 - Added pdns (nadvornik@suse.cz)
+25 August 2005 - Added smmonitor, smagent, tpssmmonitor, tpssmagent (danny.pevoto@engenio.com)
+25 August 2005 - Added haldaemon (dkukawka@suse.de)
+25 August 2005 - Added susefirewall2_init, susefirewall2_setup,
+susefirewall2_final, dvb, vdr, resmgt (ludwig.nussel@suse.de)
+25 August 2005 - Added bluetooth for Bluetooth subsystem (marcel@holtmann.org)
+25 August 2005 - Added keep, keepd for Concentrico, Inc (skirkby@concentrico.net)
+26 August 2005 - Added crms for SVI Retail (iblackwell@sviretail.com)
+17 October 2005 - Added conwrks for TECSys Development, Inc. (support@tditx.com)
+17 October 2005 - Added elvind for Mantara Software (lsb@mantara.com)
+17 October 2005 - Added hplip for Hewlett-Packard (david.suffield@hp.com)
+17 October 2005 - Added vsftpd for SUSE Linux / Novell (mmj@suse.de)
+17 October 2005 - Added ipmi for OpenIPMI Project (matt_domsch@dell.com)
+25 October 2005 - Added bzflagserver for SUSE/Novell (mmj@suse.de)
+28 November 2005 - Added pure-ftpd for SUSE/Novell (hvogel@suse.de)
+28 November 2005 - Added wondershaper for SUSE/Novell (hvogel@suse.de)
+28 November 2005 - Added otrs for OTRS GmbH (info@otrs.org)
+28 November 2005 - Added 2xthinclientserver (geoffrey@2x.com)
+01 March 2006 - Added gwavaman, rlcenter, rlagent (mjb@gwava.com)
+01 March 2006 - Added mandate (gedwards@ads-specialists.com)
+01 March 2006 - Added mandateip (gedwards@ads-specialists.com)
+01 March 2006 - Added vvrts (bernard@info-electronics.com)
+10 May 2006 - Added vvrtspg (bernard@info-electronics.com)
+10 May 2006 - Added leeuwenhoek (kemp@extelligence.net)
+10 May 2006 - Added skinsight (kemp@extelligence.net)
+10 May 2006 - Added daltoneyes (kemp@extelligence.net)
+21 August 2006 - Added cst (thimo.neubauer@cst.com)
+21 August 2006 - Added lsf (billm@platform.com)
+21 August 2006 - Added wavelink (mvongunten@wavelink.com)
+21 August 2006 - Added gm, mx, fma (help@myri.com)
+07 September 2006 - Added netvision, netvsn (jay.adams@netvision.com)
+18 September 2006 - Added xdasd (jcalcote@novell.com)
+27 October 2006 - Added chipcardd3 (martin@libchipcard.de)
+27 October 2006 - Added aspera (serban@asperasoft.com)
+27 October 2006 - Added voicerd (cthorner@novacoast.com)
+27 October 2006 - Added ivman (rohan.mcgovern.id.au)
+28 February 2007 - Added sofistikpsd (herald.nikolisin@sofistik.de
+28 February 2007 - Added postgrey (lanana@martinconsulting.com)
+28 February 2007 - Added clamd (lanana@martinconsulting.com)
+17 April 2007 - Added gigaset (gigaset307x-common@lists.sourceforge.net)
+24 July 2007 - Added asdis (support@asdis.de)
+24 July 2007 - Added callweaver (mjagdis@eris-associates.co.uk)
+09 October 2007 - Added cprocsp (cross@cryptopro.ru)
+09 October 2007 - Added nz (psmith@netezza.com)
+14 November 2007 - Changed nz above to nps
+14 November 2007 - Added lfsad (jzb2@aexorsyst.com)
+14 November 2007 - Added ispcp_daemon, ispcp_network (atomo64@gmail.com)
+04 January 2008 - Added wsf_httpd, wsf_tcpd (sanjayak@wso2.com)
+05 March 2008 - Added chss (attila.fulop@coimbra-grp.com)
+05 March 2008 - Added mbc (tomas.ruden@softwell.se)
+23 April 2008 - Added zenoss (dev@zenoss.com)
+23 April 2008 - Added nerds (bcheese@netspeed.com.au),
+23 April 2008 - Added opal (support@leicon.it)
+23 April 2008 - Added gsrunprocessormanager (jesse.keller@roche.com)
+23 April 2008 - Added allris (support@cc-egov.de)
+15 April 2010 - Added vmlvtl, vmlvsm, vmlvsa, vmlcos for VM Labs LLC (paul.perkins@vm-labs.com)
+                (xfer from Google docs entry of 1/6/2010)
+15 April 2010 - Added dcfs for Ingenieurbüro Dr. Utcke (sven.utcke@dr-utcke.de)
+                (xfer from Google docs entry of 3/3/2010)
+04 May 2010 - Added fuse for Vladimir Kolpakov (vova@cpan.org)
+29 May 2010 - Added rob for Roberto Taglioretti (roberto.taglioretti@leicon.it)
+05 Nov 2010 - Added puppet, puppetmaster for Garrett Honeycutt (garrett@puppetlabs.com)
+              First inclusion of "Purpose, Website" for init scripts, modified 
+              generation script to accomodate and tweak layout
+19 Nov 2010 - Added iaxmodem for Michael Kromer (michael.kromer@millenux.com)
+05 Jan 2011 - Added membase for Matt Ingenthron (matt@membase.com)
+19 Jan 2011 - Added is for Uwe Richter (uwe.richter@uni-jena.de)
+18 Mar 2011 - Added solserver for Matthew Hardin (mhardin@symas.com)
+

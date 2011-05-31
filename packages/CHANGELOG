@@ -1,0 +1,77 @@
+18 June 2002 - Initial revision.
+28 September 2002 - Added 'lsb-acquire'.
+18 November 2002 - Added 'lsb-elvind', 'lsb-libelvin'.
+11 March 2003 - Added 'lsb-eloquence'.
+13 March 2003 - Added 'lsb-scolinux', 'lsb-ssvl', 'lsb-webmin', 'lsb-usermin'.
+14 March 2003 - Added 'lsb-scobrand', 'lsb-docview'.
+06 April 2003 - Added 'lsb-smallfoot'.
+07 May 2003 - Added 'lsb-pvss'.
+17 July 2003 - Added 'lsb-xess', 'lsb-xstrade'.
+20 Janurary 2004 - Added 'lsb-momonga'.
+09 February 2004 - Added 'lsb-arkeia'.
+10 February 2004 - Added 'lsb-mysql' and 'lsb-maxdb'.
+03 April 2004 - Added 'lsb-bayonne'.
+09 April 2004 - Added 'lsb-python'.
+05 May 2004 - Added 'lsb-postgresql'.
+09 June 2004 - Added 'lsb-fsg'.
+27 July 2004 - Added 'lsb-ekahau-client', 'lsb-ekahau-engine',
+		     'lsb-ekahau-manager', 'lsb-ekahau-survey', 
+		     'lsb-ekahau-sdk'.
+27 July 2004 - Added 'lsb-mas'.
+27 July 2004 - Added 'lsb-drbd'.
+27 July 2004 - Added 'lsb-openmanage'.
+27 July 2004 - Added 'lsb-qsflexlm', 'lsb-qsjre', 'lsb-qsmsql',
+		     'lsb-qsmsqllib', 'lsb-qsnet-headers', 'lsb-qsnet2diags'	
+		     'lsb-qsnet2diagscommon', 'lsb-qsnet2libs',
+		     'lsb-qsnetdevkit', 'lsb-qsnetdiags', 'lsb-qsnetlibs', 'lsb-qsnetmpi'
+		     'lsb-qsnetutils', 'lsb-qsqsql', 'lsb-qsquery', 'lsb-qsrms'
+		     'lsb-qsrmsauth', 'lsb-qsrmslibs', 'lsb-qsrmsman',
+		     'lsb-qsswm', 'lsb-qsswmex', 'lsb-qsui'.
+24 August 2004 - Added 'lsb-objectweb-jonas', 'lsb-peerfs', 'lsb-teamware',
+		       'lsb-gwava', 'lsb-gwatchit', 'lsb-wasp'.
+20 September 2004 - Added 'lsb-backupexpress', 'lsb-lumenation',		     
+27 October 2004 - Added 'lsb-msec', 'lsb-zoran-er4525-sdk', 'lsb-webfocus',
+			'lsb-objectweb-cjdbc'
+22 November 2004 - Added 'lsb-slayfire'
+29 November 2004 - Added 'lsb-sudoscript'
+07 January 2005 - Added 'lsb-afs2000', 'lsb-docutron'
+09 February 2005 - Added 'lsb-strs', 'lsb-iagent3', 'lsb-cabsviewer',
+                   'lsb-connectgate', 'lsb-csr-connectgate', 'lsb-ilec-connectgate', 
+		   'lsb-ixc-connectgate', 'lsb-wtrex'
+10 February 2005 - Added 'lsb-ers' 
+07 March 2005 - Added 'lsb-tet3-lite'
+05 April 2005 - Added 'lsb-flexctrl','lsb-allianz', 'lsb-ricis'
+12 May 2005 - Added 'lsb-ciphire', 'lsb-ciphire-gw', 'lsb-ciphire-proxy', 
+		'lsb-srvadmin', 'lsb-dcf', 'lsb-pediags', 'lsb-armtech', 
+		'lsb-galaxy'
+13 July 2005 - Added 'lsb-securetransport'
+25 July 2005 - Added 'lsb-dice', 'lsb-centrifydc'
+25 August 2005 - Added 'lsb-vista', 'lsb-keep', 'lsb-crms', 'lsb-appgen', 'lsb-idxpki', 'lsb-lucent.com-lmpi'
+17 October 2005 - Added 'lsb-thermeon', 'lsb-openipmi'
+01 March 2006 - Added 'lsb-mandate', 'lsb-mandateip', 'lsb-vvrts', 'lsb-capaccess', 'lsb-a11y'
+10 May 2006 - Added 'lsb-vvrtspg', 'lsb-poco', 'lsb-vector', 'lsb-leeuwenhoek',
+		'lsb-skinsight', 'lsb-daltoneyes'
+21 August 2006 - Added 'lsb-lsf', 'lsb-wavelink'
+07 September 2006 - Added 'lsb-netvision', 'lsb-netvsn'
+18 September 2006 - Added 'lsb-openxdas'
+27 October 2006 - Added 'lsb-ascp, 'lsb-asconnect', 'lsb-qtopia', 'ivman'
+29 November 2006 - Added 'lsb-coz'
+17 April 2007 - Added 'lsb-zyrossdc'
+24 July 2007 - Added 'lsb-asdis', 'lsb-callweaver'
+09 October 2007 - Added 'lsb-nps'
+04 January 2008 - Added 'lsb-wsf_c', 'lsb-wsas', 'lsb-esb', 'lsb-mashup', 'lsb-is', 'lsb-registry'
+05 March 2008 - Added 'lsb-synchronet', 'lsb-chssbase', 'lsb-chssmailprimary',
+			'lsb-chssmailsupplemental', 'lsb-chsswww', 'lsb-chsscrm', 'lsb-chssbilling'
+			'lsb-chssticketing', 'lsb-chsseucp', 'lsb-chssextsync',
+			'lsb-chssgroupware', 'lsb-mbc'
+
+23 April 2008 - Added 'lsb-zenoss', 'lsb-nerds', 'lsb-opal',
+                        'lsb-gsrunprocessor', 'lsb-gsreporter', 'lsb-gsrunprocessormanager',
+                        'lsb-gsrunbrowser', 'lsb-gssupporttool'
+
+15 April 2010 - Added 'lsb-vmlvtl', 'lsb-vmlvsm', 'lsb-vmlvsa', 'lsb-vmlcos' 
+                (xfer from Google docs entry of 1/6/2010)
+15 April 2010 - Added 'lsb-dcfs' 
+                (xfer from Google docs entry of 3/3/2010)
+29 May 2010 - Added 'lsb-rob'
+
