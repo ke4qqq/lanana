@@ -725,6 +725,14 @@ saab          Saab AB
 		anders.ronnbrant
 		at saabgroup.com
 
+sas           SAS Institute, Inc.
+		steve.holzworth
+		at sas.com
+
+scienomics    Scienomics
+		joerg-ruediger.hill
+		at scienomics.com
+
 sco           The SCO Group (Caldera Systems Inc.)
                 linuxtech
                 at sco.com
@@ -740,23 +748,6 @@ semantico     Semantico Ltd.
 shiman        Shiman Associates, Inc.
 		leon
 		at magic.shiman.com
-
-sviretail     SVI Retail
-		iblackwell
-		at sviretail.com.au
-
-syncsort      Syncsort, Inc.
-		Karen Lieberman
-		klieberman
-		at syncsort.com
-
-sas           SAS Institute, Inc.
-		steve.holzworth
-		at sas.com
-
-scienomics    Scienomics
-		joerg-ruediger.hill
-		at scienomics.com
 
 shibboleth    Shibboleth Project
 		http://shibboleth.net/
@@ -815,6 +806,10 @@ suse          SuSE Linux AG
                 kukuk
                 at suse.de
 
+sviretail     SVI Retail
+		iblackwell
+		at sviretail.com.au
+
 sw            SWsoft, Inc.
 		mgusarov
 		at swsoft.com
@@ -823,6 +818,11 @@ symas         Symas Corporation
 		Matthew Hardin
 		mhardin
 		at symas.com
+
+syncsort      Syncsort, Inc.
+		Karen Lieberman
+		klieberman
+		at syncsort.com
 
 tac           TAC
 		allan.bjorck
