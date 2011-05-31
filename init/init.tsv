@@ -571,6 +571,7 @@ tomcat4	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 tpconfig	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 tpssmagent	Engenio Information Technologies, Inc	danny.pevoto@engenio.com
 tpssmmonitor	Engenio Information Technologies, Inc	danny.pevoto@engenio.com
+tvpvrd	Johan Persson	johan162@gmail.com	start/stop the tvpvrd daemon	https://sourceforge.net/apps/mediawiki/tvpvrd/	
 trafstats	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 transproxy	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 trustees	Reserved for LSB-Compliant Distributions	lsb@lanana.org

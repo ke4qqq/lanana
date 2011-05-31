@@ -96,6 +96,12 @@ blackduck     Black Duck Software, Inc.
 		dkaelbling
 		at blackducksoftware.com
 
+bmir          Stanford University Center for Biomedical Informatics Research
+		http://bmir.stanford.edu
+		Mike Seda
+		maseda
+		at stanford.edu
+
 bowe          BOWE Bell+Howell
 		vic.tolomei
 		at bowebellhowell.com
@@ -460,6 +466,12 @@ mantara       Mantara Software
 		lsb
 		at mantara.com
 
+markitserv    MarkitSERV, Inc.
+		http://www.markitserv.com/
+		Matthew Barr
+		matthew.barr
+		at markitserv.com
+
 marxmeier     Marxmeier Software AG
                 mike
                 at marxmeier.com
@@ -773,6 +785,12 @@ softwareag    Software AG, Technology Alliance Center
 		
 softwell      SoftWell Performance AB
 		tomas.ruden@softwell.se
+
+solinor       Solinor Oy
+		http://www.solinor.com/
+		Petri Koistinen
+		petri.koistinen
+		at solinor.com
 
 sot           SOT Finnish Software Engineering Ltd.
                 packager
