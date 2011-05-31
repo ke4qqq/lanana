@@ -136,3 +136,4 @@ susefirewall2_final, dvb, vdr, resmgt (ludwig.nussel@suse.de)
 19 Jan 2011 - Added is for Uwe Richter (uwe.richter@uni-jena.de)
 18 Mar 2011 - Added solserver for Matthew Hardin (mhardin@symas.com)
 31 May 2011 - restore tvpvrd lost @kernel.org
+31 May 2011 - Add shibd for Peter Schober
