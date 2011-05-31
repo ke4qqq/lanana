@@ -758,6 +758,12 @@ scienomics    Scienomics
 		joerg-ruediger.hill
 		at scienomics.com
 
+shibboleth    Shibboleth Project
+		http://shibboleth.net/
+		Peter Schober
+		peter.schober
+		at univie.ac.at
+
 slayfire      SlayFire Software Co. LLC
 		hank
 		at slayfire.com
