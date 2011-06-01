@@ -137,3 +137,5 @@ susefirewall2_final, dvb, vdr, resmgt (ludwig.nussel@suse.de)
 18 Mar 2011 - Added solserver for Matthew Hardin (mhardin@symas.com)
 31 May 2011 - restore tvpvrd lost @kernel.org
 31 May 2011 - Add shibd for Peter Schober
+01 Jun 2011 - Add raptoricad, raptormuad, raptorwebd for Rhys Smith (smith@cardiff.ac.uk)
+

@@ -446,6 +446,9 @@ radvd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 raid	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 raid2	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 random	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+raptoricad	Cardiff University	smith@cardiff.ac.uk	start/stop the Raptor ICA daemon	http://iam.cf.ac.uk/Raptor
+raptormuad	Cardiff University	smith@cardiff.ac.uk	start/stop the Raptor MUA daemon	http://iam.cf.ac.uk/Raptor
+raptorwebd	Cardiff University	smith@cardiff.ac.uk	start/stop the Raptor web interface daemon	http://iam.cf.ac.uk/Raptor
 rarpd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 rawio	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 rbootd	Reserved for LSB-Compliant Distributions	lsb@lanana.org

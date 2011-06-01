@@ -707,6 +707,12 @@ quest         Quest Software Inc.
 		robert.clark
 		at quest.com
 
+raptor        Cardiff University
+		http://iam.cf.ac.uk/Raptor
+		Rhys Smith
+		smith
+		at cardiff.ac.uk
+
 real          RealNetworks, Inc.
 		dshirzad
 		at real.com
