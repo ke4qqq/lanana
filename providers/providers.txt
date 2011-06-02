@@ -555,6 +555,10 @@ nmkl          Norbert M.K. Lemke
                 lsb
                 at unterbiberg.de
 
+node          Node Corp.
+		lanana
+		at node.org
+
 nokia         Nokia Linux Project
                 jyrki.stenvall
                 at nokia.com
