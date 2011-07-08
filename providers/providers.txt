@@ -365,6 +365,12 @@ idealx        IDEALX S.A.S.
 		mathias.brossard
 		at idealx.com
 
+imgtec        Imagination Technologies Ltd
+		http://www.imgtec.com
+		Matthew Fortune
+		lsb
+		at imgtec.com
+
 infinirel     infiniRel Corporation
 		doug.knabe
 		at infinirel.com
