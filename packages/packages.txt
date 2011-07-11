@@ -32,8 +32,8 @@ lsb-connectgate   Lymeware Corporation                      cfox@lymeware.com
 lsb-coz           Co:Z Toolkit                              kirk@dovetail.com
 lsb-crms          SVI Retail                                iblackwell@sviretail.com.au	
 lsb-csr-connectgate Lymeware Corporation                    cfox@lymeware.com
-lsb-dam           Basefarm                                  poul@basefarm.com	
-lsb-dam3          Basefarm                                  poul@basefarm.com	
+lsb-dam           Basefarm AS                               poul@basefarm.com	
+lsb-dam3          Basefarm AS                               poul@basefarm.com	
 lsb-daltoneyes    Objective Pathology Systems               kemp@extelligence.net
 lsb-dcf           Delta C-Fax                               timborn@deltacfax.com
 lsb-dcfs          Ingenieurbüro Dr. Utcke                   sven.utcke@dr-utcke.de

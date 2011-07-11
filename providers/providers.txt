@@ -211,7 +211,7 @@ daltoneyes    Objective Pathology Systems
 		kemp
 		at extelligence.net
 
-dam           Basefarm
+dam           Basefarm AS
 		Poul Henning Sørensen
 		poul
 		at basefarm.com
