@@ -16,15 +16,15 @@ lsb-callweaver    Eris Associates Limited                   mjagdis@eris-associa
 lsb-carsplus	  Thermeon Corporation                      sbn@thermeon.com
 lsb-centrifydc    Centrify Corp.                            adam.au@centrify.com
 lsb-chssbase      Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
-lsb-chssmailprimary Coimbra Ltd.                            attila.fulop@coimbra-grp.com	
-lsb-chssmailsupplemental Coimbra Ltd.                       attila.fulop@coimbra-grp.com	
-lsb-chsswww       Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
-lsb-chsscrm       Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
 lsb-chssbilling   Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
-lsb-chssticketing Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chsscrm       Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
 lsb-chsseucp      Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
 lsb-chssextsync   Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
 lsb-chssgroupware Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chssmailprimary Coimbra Ltd.                            attila.fulop@coimbra-grp.com	
+lsb-chssmailsupplemental Coimbra Ltd.                       attila.fulop@coimbra-grp.com	
+lsb-chssticketing Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
+lsb-chsswww       Coimbra Ltd.                              attila.fulop@coimbra-grp.com	
 lsb-ciphire       Ciphire Labs                              le at ciphirelabs.com
 lsb-ciphire-gw    Ciphire Labs                              le at ciphirelabs.com
 lsb-ciphire-proxy Ciphire Labs                              le at ciphirelabs.com
@@ -32,10 +32,8 @@ lsb-connectgate   Lymeware Corporation                      cfox@lymeware.com
 lsb-coz           Co:Z Toolkit                              kirk@dovetail.com
 lsb-crms          SVI Retail                                iblackwell@sviretail.com.au	
 lsb-csr-connectgate Lymeware Corporation                    cfox@lymeware.com
-lsb-idxpki        IDEALX S.A.S.                             mathias.brossard@idealx.com
-lsb-ilec-connectgate Lymeware Corporation                   cfox@lymeware.com
-lsb-is            WSO2 Inc.                                 sanjayak@wso2.com
-lsb-ixc-connectgate Lymeware Corporation                    cfox@lymeware.com
+lsb-dam           Basefarm                                  poul@basefarm.com	
+lsb-dam3          Basefarm                                  poul@basefarm.com	
 lsb-daltoneyes    Objective Pathology Systems               kemp@extelligence.net
 lsb-dcf           Delta C-Fax                               timborn@deltacfax.com
 lsb-dcfs          Ingenieurbüro Dr. Utcke                   sven.utcke@dr-utcke.de
@@ -64,7 +62,11 @@ lsb-gtm           Fidelity National Information Services    ks.bhaskar@fnis.com
 lsb-gwatchit      Beginfinite, Inc                          mjb@gwava.com	
 lsb-gwava         Beginfinite, Inc                          mjb@gwava.com
 lsb-iagent3       Lymeware Corporation                      cfox@lymeware.com
+lsb-idxpki        IDEALX S.A.S.                             mathias.brossard@idealx.com
+lsb-ilec-connectgate Lymeware Corporation                   cfox@lymeware.com
+lsb-is            WSO2 Inc.                                 sanjayak@wso2.com
 lsb-ivman         Rohan McGovern                            rohan@mcgovern.id.au	
+lsb-ixc-connectgate Lymeware Corporation                    cfox@lymeware.com
 lsb-keep          Concentrico, Inc.                         skirkby@concentrico.net
 lsb-leeuwenhoek   Objective Pathology Systems               kemp@extelligence.net
 lsb-libelvin      Elvin Project http://elvin.dstc.edu.au/   davida@pobox.com
@@ -73,8 +75,8 @@ lsb-lucent.com-lmpi LucentTechnologies Bell Labs            rbcraig@lucent.com
 lsb-lumenation    Lumen Software                            vitali@lumensoftware.com
 lsb-mandate	  ADS Specialists, Inc.                     gedwards@ads-specialists.com
 lsb-mandateip	  ADS Specialists, Inc.                     gedwards@ads-specialists.com
-lsb-mas		  Mas by Shiman Associates Inc              leon@magic.shiman.com		
 lsb-mashup        WSO2 Inc.                                 sanjayak@wso2.com
+lsb-mas		  Mas by Shiman Associates Inc              leon@magic.shiman.com		
 lsb-maxdb         MaxDB by MySQL AB                         zak@mysql.com
 lsb-mbc           SoftWell Performance AB                   tomas.ruden@softwell.se
 lsb-momonga       Momonga Project                           muraken@momonga-linux.org
@@ -89,6 +91,7 @@ lsb-objectweb-jonas JOnAS by ObjectWeb Consortium           lsb@objectweb.org
 lsb-opal          LEICON di Serenella Saccon                support@leicon.it
 lsb-openipmi      OpenIPMI                                  matt_domsch@dell.com 		
 lsb-openmanage	  OpenManage by Dell Inc                    prakash_nara@dell.com.
+lsb-openxdas      OpenXDAS                                  jcalcote@novell.com
 lsb-panthera      Panthera GNU/Linux                        daniel.baumann@panthera-systems.net
 lsb-pediags       Dell PowerEdge Diagnostics                prabhat_biswas@dell.com
 lsb-peerfs        PeerFS Replicating Filesystem             morreale@radiantdata.com
@@ -99,33 +102,33 @@ lsb-pvss          ETM Aktiengesellschaft                    koller@etm.at
 lsb-python        Python Software Foundation                mats@python.org
 lsb-qsflexlm	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsjre 	  Quadrics Ltd.				    daniel.blueman@quadrics.com
-lsb-qsmsql	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsmsqllib	  Quadrics Ltd.				    daniel.blueman@quadrics.com
-lsb-qsnet-headers Quadrics Ltd.				    daniel.blueman@quadrics.com
-lsb-qsnet2diags	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsmsql	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsnet2diagscommon Quadrics Ltd.			    daniel.blueman@quadrics.com
+lsb-qsnet2diags	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsnet2libs	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsnetdevkit	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsnetdiags	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsnet-headers Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsnetlibs	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsnetmpi	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsnetutils	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsqsql	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsquery	  Quadrics Ltd.				    daniel.blueman@quadrics.com
-lsb-qsrms	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsrmsauth	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsrmslibs	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsrmsman	  Quadrics Ltd.				    daniel.blueman@quadrics.com
-lsb-qsswm	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsrms	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsswmex	  Quadrics Ltd.				    daniel.blueman@quadrics.com
+lsb-qsswm	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qsui	  Quadrics Ltd.				    daniel.blueman@quadrics.com
 lsb-qtopia        Trolltech ASA                             lpotter@trolltech.com		
-lsb-ricis         RICIS, Inc                                lsb@ricis.com		
 lsb-registry      WSO2 Inc.                                 sanjayak@wso2.com
+lsb-ricis         RICIS, Inc                                lsb@ricis.com		
 lsb-rob           LEICON di Serenella Saccon                roberto.taglioretti@leicon.it
-lsb-securetransport Tumbleweed Communications Corp.         mattl@tumbleweed.com
 lsb-scobrand      The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
 lsb-scolinux      The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
+lsb-securetransport Tumbleweed Communications Corp.         mattl@tumbleweed.com
 lsb-skinsight     Objective Pathology Systems               kemp@extelligence.net
 lsb-slayfire      Slayfire Software Co. LLC                 hank@slayfire.com			
 lsb-smallfoot     The SCO Group (Caldera Systems Inc.)      smallfoot@sco.com
@@ -146,14 +149,13 @@ lsb-vmlvtl        VM-Labs, LLC                              paul.perkins@vm-labs
 lsb-vvrts         Info-Electronics Systems Inc.             bernard@info-electronics.com
 lsb-vvrtspg       Info-Electronics Systems Inc.             bernard@info-electronics.com
 lsb-wasp          Beginfinite, Inc                          mjb@gwava.com
+lsb-wavelink      Avalanche Mobility Center Applications    mvongunten@wavelink.com	
 lsb-webfocus      Information Builders, Inc.                patrick_powers@ibi.com
 lsb-webmin        The SCO Group (Caldera Systems Inc.)      jcameron@webmin.com
 lsb-wsas          WSO2 Inc.                                 sanjayak@wso2.com
 lsb-wsf_c         WSO2 Inc.                                 sanjayak@wso2.com
 lsb-wtrex         Lymeware Corporation                      cfox@lymeware.com
-lsb-wavelink      Avalanche Mobility Center Applications    mvongunten@wavelink.com	
 lsb-xess          Applied Information Systems, Inc.         jim@ais.com
-lsb-openxdas      OpenXDAS                                  jcalcote@novell.com
 lsb-xstrade       Applied Information Systems, Inc.         jim@ais.com
 lsb-zenoss        Zenoss, Inc.                              dev@zenoss.com
 lsb-zoran-er4525-sdk Zoran Corporation                      alon.ziv@zoran.com
