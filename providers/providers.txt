@@ -792,6 +792,13 @@ slayfire      SlayFire Software Co. LLC
 		hank
 		at slayfire.com
 
+slon          Slot Constructor, LLC
+		Slot Constructor Gaming
+		http://www.slotconstructor.com/
+		Evgeny Bronnikov
+		info
+		at slotconstructor.com
+
 sofcheck      SofCheck, Inc.
 		stt
 		at sofcheck.com
