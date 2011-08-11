@@ -85,7 +85,7 @@ lsb-mysql         MySQL by MySQL AB                         zak@mysql.com
 lsb-nerds         Network Evidential Reconstruction of Data Streams bcheese@netspeed.com.au
 lsb-netvision     NetVision, Inc                            jay.adams@netvision.com
 lsb-netvsn        NetVision, Inc                            jay.adams@netvision.com
-lsb-nps           Netezza Performance Server                psmith@netezza.com
+lsb-nps           Netezza Performance Server                pds@us.ibm.com
 lsb-objectweb-cjdbc C-JDBC by ObjectWeb Consortium          lsb@objectweb.org
 lsb-objectweb-jonas JOnAS by ObjectWeb Consortium           lsb@objectweb.org
 lsb-opal          LEICON di Serenella Saccon                support@leicon.it

@@ -591,8 +591,8 @@ nr            Bivio Networks
 		at bivio.net
 
 nz            Netezza Corp
-		psmith
-		at netezza.com
+		pds
+		at us.ibm.com
 
 objectweb     ObjectWeb Consortium
 		lsb
