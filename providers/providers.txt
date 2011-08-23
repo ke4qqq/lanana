@@ -934,6 +934,11 @@ virtuosa      Virtuosa Limited
 		asset.manager
 		at virtuosa.ltd.uk
 
+visionvideo   Dialogic Inc.
+		www.dialogic.com
+		harvey.lieber
+		at dialogic.com
+
 vmetro        VMETRO
 		nclausen
 		at vmetro.com
