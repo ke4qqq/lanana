@@ -894,6 +894,12 @@ ti            Texas Instruments
 		d-knabe
 		at ti.com
 
+timesight     TimeSight Systems, Inc.
+		http://www.timesightsystems.com/
+		Barry P. Benight
+		iana at
+		timesightsystems.com
+
 timesys       TimeSys Corporation
 		piggy
 		at netronome
