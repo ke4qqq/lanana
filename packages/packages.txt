@@ -1,6 +1,7 @@
 LSB Package Names Assignee                                  Contact
 ----------------- ----------------------------------------- -------------
 lsb-acquire       Acquired Intelligence Inc.                mike@aiinc.ca
+lsb-adocusflexlm  Adocus AB                                 ulf.sjostedt@adocus.com
 lsb-afs2000       Deansoft Co.,Ltd.                         michael@deansoft.com.tw				
 lsb-allianz       Allianz Insurance                         rainer.brunold@allianz.at	
 lsb-appgen        InsynQ Inc.                               errol@appgen.com

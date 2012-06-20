@@ -18,6 +18,10 @@ acumem        Acumem AB
 		info
 		at acumem.com
 
+adocus        Adocus AB
+		ulf.sjosted
+		at adocus.com
+
 aerosoft      AeroSoft, Inc.
 		mcgrory
 		at aerosft.com
