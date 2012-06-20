@@ -19,7 +19,7 @@ acumem        Acumem AB
 		at acumem.com
 
 adocus        Adocus AB
-		ulf.sjosted
+		ulf.sjostedt
 		at adocus.com
 
 aerosoft      AeroSoft, Inc.
