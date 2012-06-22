@@ -6,7 +6,7 @@
 # Modified for "Purpose, Website" 2010 Stew Benedict, Linux Foundation
 
 echo "LSB Assigned"
-echo "Init Script Filename      Assignee/Purpose                              Contact/Website"
-echo "------------------------- --------------------------------------------- ---------------"
+echo "Init Script Filename                     Assignee/Purpose                                        Contact/Website"
+echo "---------------------------------------- ---------------------------------------------           ---------------"
 
-awk -F "\t" '{printf "%-25.25s %-55.55s %s\n%-25.25s %-55.55s %s\n",$1,$2,$3,"",$4,$5}' < init.tsv
+awk -F "\t" '{printf "%-40.40s %-55.55s %s\n%-40.40s %-55.55s %s\n",$1,$2,$3,"",$4,$5}' < init.tsv

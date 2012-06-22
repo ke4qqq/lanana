@@ -396,6 +396,35 @@ opengate	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 openh323gk	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 openmanage	Dell Inc	prakash_nara@dell.com
 openmosix	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+openstack-glance-api	SUSE	saschpe@suse.de	start/stops the 'glance-api' daemon	http://openstack.org/
+openstack-glance-registry	SUSE	saschpe@suse.de	start/stops the 'glance-registry' daemon	http://openstack.org/
+openstack-keystone	SUSE	saschpe@suse.de	start/stops the 'keystone' daemon	http://openstack.org/
+openstack-nova-api	SUSE	saschpe@suse.de	start/stops the 'nova-api' daemon	http://openstack.org/
+openstack-nova-cert	SUSE	saschpe@suse.de	start/stops the 'nova-cert' daemon	http://openstack.org/
+openstack-nova-compute	SUSE	saschpe@suse.de	start/stops the 'nova-compute' daemon	http://openstack.org/
+openstack-nova-consoleauth	SUSE	saschpe@suse.de	start/stops the 'nova-consoleauth' daemon	http://openstack.org/
+openstack-nova-network	SUSE	saschpe@suse.de	start/stops the 'nova-network' daemon	http://openstack.org/
+openstack-nova-objectstore	SUSE	saschpe@suse.de	start/stops the 'nova-objectstore' daemon	http://openstack.org/
+openstack-nova-scheduler	SUSE	saschpe@suse.de	start/stops the 'nova-scheduler' daemon	http://openstack.org/
+openstack-nova-vncproxy	SUSE	saschpe@suse.de	start/stops the 'nova-vncproxy' daemon	http://openstack.org/
+openstack-nova-volume	SUSE	saschpe@suse.de	start/stops the 'nova-volume' daemon	http://openstack.org/
+openstack-novncproxy	SUSE	saschpe@suse.de	start/stops the 'novncproxy' daemon	http://openstack.org/
+openstack-quantum	SUSE	saschpe@suse.de	start/stops the 'quantum' daemon	http://openstack.org/
+openstack-swift-account	SUSE	saschpe@suse.de	start/stops the 'swift-account' daemon	http://openstack.org/
+openstack-swift-account-auditor	SUSE	saschpe@suse.de	start/stops the 'swift-account-auditor' daemon	http://openstack.org/
+openstack-swift-account-reaper	SUSE	saschpe@suse.de	start/stops the 'swift-account-reaper' daemon	http://openstack.org/
+openstack-swift-account-replicator	SUSE	saschpe@suse.de	start/stops the 'swift-account-replicator' daemon	http://openstack.org/
+openstack-swift-container	SUSE	saschpe@suse.de	start/stops the 'swift-container' daemon	http://openstack.org/
+openstack-swift-container-auditor	SUSE	saschpe@suse.de	start/stops the 'swift-container-auditor' daemon	http://openstack.org/
+openstack-swift-container-replicator	SUSE	saschpe@suse.de	start/stops the 'swift-container-replicator' daemon	http://openstack.org/
+openstack-swift-container-sync	SUSE	saschpe@suse.de	start/stops the 'swift-container-sync' daemon	http://openstack.org/
+openstack-swift-container-updater	SUSE	saschpe@suse.de	start/stops the 'swift-container-updater' daemon	http://openstack.org/
+openstack-swift-object	SUSE	saschpe@suse.de	start/stops the 'swift-object' daemon	http://openstack.org/
+openstack-swift-object-auditor	SUSE	saschpe@suse.de	start/stops the 'swift-object-auditor' daemon	http://openstack.org/
+openstack-swift-object-expirer	SUSE	saschpe@suse.de	start/stops the 'swift-object-expirer' daemon	http://openstack.org/
+openstack-swift-object-replicator	SUSE	saschpe@suse.de	start/stops the 'swift-object-replicator' daemon	http://openstack.org/
+openstack-swift-object-updater	SUSE	saschpe@suse.de	start/stops the 'swift-object-updater' daemon	http://openstack.org/
+openstack-swift-proxy	SUSE	saschpe@suse.de	start/stops the 'swift-proxy' daemon	http://openstack.org/
 oss-preserve	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 otrs	OTRS GmbH	info@otrs.org
 ovpa	HP OpenView Performance Agent	dwight.young@hp.com
