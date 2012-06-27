@@ -264,12 +264,17 @@ drutcke      Ingenieurbüro Dr. Utcke
 		sven.utcke
 		at dr-utcke.de
 
+edg           CERN
+		fotis
+		at cern.ch
+
 edoceo        Edoceo, Inc.
-		busby@edoceo.com
+		busby
+		at edoceo.com
 
 egbok         EGBOK Consultants
-		hbo at
-		egbok.com
+		hbo
+		at egbok.com
 
 ekahau        Ekahau, Inc
 		juha.sievanen
@@ -360,6 +365,14 @@ gfi           GFi Software Ltd.
 		raphael
 		at gfi.com
 
+glite         CERN
+		fotis
+		at cern.ch
+
+globus        CERN
+		fotis
+		at cern.ch
+
 google        Google, Inc.
 		caskey
 		at google.com
@@ -430,6 +443,10 @@ jssorcerer    DHI Technologies, Inc
 lba           Linux Business Alliance
                 info
                 at linuxalliance.org
+
+lcg           CERN
+		fotis
+		at cern.ch
 
 lemon         Lemon Computing limited
 		cnw at lemon-computing.com

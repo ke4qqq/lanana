@@ -20,12 +20,16 @@ cst
 dcfs
 diskcheck
 docutron
+edg
 eloquence
 fsg
 fuse
 galaxy
+glite
+globus
 is
 jonas
+lcg
 logrotate
 mandate
 mandateip

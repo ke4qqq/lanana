@@ -41,7 +41,8 @@ lsb-dcfs          Ingenieurbüro Dr. Utcke                   sven.utcke@dr-utcke
 lsb-dice          DIGITAL ICE by Bishop Software            m.bishop@earthlink.net 
 lsb-docutron      Docutron Systems, Inc.                    wthibodeau@docutronsystems.com
 lsb-docview       The SCO Group (Caldera Systems Inc.)      linuxtech@sco.com
-lsb-drbd          The DRBD development team                 philipp.reisner@linbit.com	
+lsb-drbd          The DRBD development team                 philipp.reisner@linbit.com
+lsb-edg           CERN	                                    fotis@cern.ch
 lsb-ekahau-client Ekahau Client by Ekahau, Inc              juha.sievanen@ekahau.com
 lsb-ekahau-engine Ekahau Positioning Engine by Ekahau, Inc  juha.sievanen@ekahau.com
 lsb-ekahau-manager Ekahau Manager by Ekahau, Inc            juha.sievanen@ekahau.com
@@ -54,8 +55,10 @@ lsb-esb           WSO2 Inc.                                 sanjayak@wso2.com
 lsb-flexctrl      FlexCtrl - SCADA-System                   info@peuker-online.de	
 lsb-fsg           The Free Standards Group                  dbb@freestandards.org
 lsb-galaxy        CommVault Galaxy                          dmitriy@commvault.com
+lsb-glite         CERN	                                    fotis@cern.ch
+lsb-globus        CERN	                                    fotis@cern.ch
 lsb-gsreporter    454 Life Sciences                         jesse.keller@roche.com
-lsb-gsrunbrowser  454 Life Sciences                        jesse.keller@roche.com
+lsb-gsrunbrowser  454 Life Sciences                         jesse.keller@roche.com
 lsb-gsrunprocessor 454 Life Sciences                        jesse.keller@roche.com
 lsb-gsrunprocessormanager 454 Life Sciences                 jesse.keller@roche.com
 lsb-gssupporttool 454 Life Sciences                 jesse.keller@roche.com
@@ -69,6 +72,7 @@ lsb-is            WSO2 Inc.                                 sanjayak@wso2.com
 lsb-ivman         Rohan McGovern                            rohan@mcgovern.id.au	
 lsb-ixc-connectgate Lymeware Corporation                    cfox@lymeware.com
 lsb-keep          Concentrico, Inc.                         skirkby@concentrico.net
+lsb-lcg           CERN	                                    fotis@cern.ch
 lsb-leeuwenhoek   Objective Pathology Systems               kemp@extelligence.net
 lsb-libelvin      Elvin Project http://elvin.dstc.edu.au/   davida@pobox.com
 lsb-lsf           Platform Computing                        billm@platform.com
