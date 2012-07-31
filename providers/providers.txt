@@ -154,6 +154,11 @@ cllf          Cloverleaf Communications, Inc.
                 Cyril.Plisko
                 at CloverleafComm.com
 
+cm            Cornell-Mayo Associates
+		Bob Hoffmann
+		lanana
+		at cornell-mayo.com
+
 cma           CMA Small Systems AB
 		ivan.pechorin
 		at cma.ru
