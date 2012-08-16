@@ -366,6 +366,11 @@ fujixerox     Fuji Xerox Co., Ltd.
 		osamu.mihara
 		at fujixerox.co.jp
 
+fws           Fourth Watch Software LC
+		http://fourthwatchsoftware.com
+		ldl
+		at linux.com
+
 gfi           GFi Software Ltd.
 		raphael
 		at gfi.com

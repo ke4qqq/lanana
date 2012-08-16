@@ -54,6 +54,7 @@ lsb-ers           Enterprise Ready Server, Covalent Tech.   dcarwin@covalent.net
 lsb-esb           WSO2 Inc.                                 sanjayak@wso2.com
 lsb-flexctrl      FlexCtrl - SCADA-System                   info@peuker-online.de	
 lsb-fsg           The Free Standards Group                  dbb@freestandards.org
+lsb-fws           Fourth Watch Software LC                  ldl@linux.com
 lsb-galaxy        CommVault Galaxy                          dmitriy@commvault.com
 lsb-glite         CERN	                                    fotis@cern.ch
 lsb-globus        CERN	                                    fotis@cern.ch
