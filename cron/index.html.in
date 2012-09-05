@@ -33,7 +33,7 @@ in lower case) or your LSB Provider Name.  For further details, see
 the <b>System Initialization</b> chapter of the <a href=http://refspecs.linux-foundation.org/LSB_4.0.0/LSB-Core-generic/LSB-Core-generic/book1.html>LSB Core specification.</a>
 <p>
 <b><i>Restrictions:</i></b>
-The LSB cron script names assigned by LANANA will only consist of the ASCII characters [a-z0-9].
+The LSB cron script names assigned by LANANA will only consist of the ASCII characters [-a-z0-9].
 
 <p>
 <b><i>References:</i></b>

@@ -78,6 +78,11 @@ baeurer       Sage baeurer GmbH
 		helge.zimpel
 		at sagebaeurer.de
 
+bcfg2         Bcfg2
+		http://bcfg2.org/
+		bcfg2
+		at gnu.org
+
 bds           Black Duck Software, Inc.
 		David Kaelbling
 		dkaelbling

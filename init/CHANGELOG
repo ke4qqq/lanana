@@ -140,3 +140,5 @@ susefirewall2_final, dvb, vdr, resmgt (ludwig.nussel@suse.de)
 01 Jun 2011 - Add raptoricad, raptormuad, raptorwebd for Rhys Smith (smith@cardiff.ac.uk)
 11 Aug 2011 - Change contact email for Netezza
 22 Jun 2012 - Add init scripts for Openstack
+05 Sep 2012 - Add bcfg2, bcfg2-server for Christopher Holm (them4z@gmail.com)
+

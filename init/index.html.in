@@ -34,7 +34,7 @@ in lower case) or your LSB Provider Name.  For further details, see
 the <b>System Initialization</b> chapter of the <a href=http://refspecs.linux-foundation.org/LSB_4.0.0/LSB-Core-generic/LSB-Core-generic/book1.html>LSB Core specification.</a>
 <p>
 <b><i>Restrictions:</i></b>
-The LSB Init Script names assigned by LANANA will only consist of the ASCII characters [a-z0-9].
+The LSB Init Script names assigned by LANANA will only consist of the ASCII characters [-_.a-z0-9].
 
 <UL>
 <LI><A HREF="init.txt">Current LSB Init Script Name List</A> @MOD_DATE@

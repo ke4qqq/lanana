@@ -8,6 +8,7 @@ aspera
 asdis
 backupexpress
 bayonne
+bcfg2
 callweaver
 centrifydc
 chss
