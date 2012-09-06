@@ -87,12 +87,10 @@ backupexpress                            Backup Express by Syncsort, Inc.       
                                                                                                  
 bayonne                                  Open Source Telecom Corp                                dyfet@ostel.com
                                                                                                  
-bcfg2                                    Bcfg2 software project                                  
-                                         bcfg2@gnu.org                                           manage the Bcfg2 client daemon http://bcfg2.org/
-bcfg2-server                             Bcfg2 software project                                  
-                                         bcfg2@gnu.org                                           manage the Bcfg2 server (daemon) http://bcfg2.org/
-                                                                                                 
-                                                                                                 
+bcfg2                                    Bcfg2 software project                                  bcfg2@gnu.org
+                                         manage the Bcfg2 client daemon                          http://bcfg2.org/
+bcfg2-server                             Bcfg2 software project                                  bcfg2@gnu.org
+                                         manage the Bcfg2 server (daemon)                        http://bcfg2.org/
 bind                                     Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 bind9                                    Reserved for LSB-Compliant Distributions                lsb@lanana.org
