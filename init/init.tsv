@@ -24,6 +24,7 @@ apcd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 apcupsd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 apmd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 aprsd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+arangodb	ArangoDB – the universal nosql database	f.celler@triagens.de	start/stop the arangod daemon	http://www.arangodb.org
 argus	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 arkeia	Arkeia Corporation	aspicht@arkeia.com
 arla	Reserved for LSB-Compliant Distributions	lsb@lanana.org

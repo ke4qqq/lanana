@@ -141,4 +141,6 @@ susefirewall2_final, dvb, vdr, resmgt (ludwig.nussel@suse.de)
 11 Aug 2011 - Change contact email for Netezza
 22 Jun 2012 - Add init scripts for Openstack
 05 Sep 2012 - Add bcfg2, bcfg2-server for Christopher Holm (them4z@gmail.com)
+25 Sep 2012 - Add arangodb for Frank Celler  (f.celler@triagens.de)
+
 
