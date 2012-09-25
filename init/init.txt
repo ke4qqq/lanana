@@ -53,7 +53,7 @@ apmd                                     Reserved for LSB-Compliant Distribution
                                                                                                  
 aprsd                                    Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
-arangodb                                 ArangoDB – the universal nosql database                 f.celler@triagens.de
+arangodb                                 ArangoDB - the universal nosql database                 f.celler@triagens.de
                                          start/stop the arangod daemon                           http://www.arangodb.org
 argus                                    Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
