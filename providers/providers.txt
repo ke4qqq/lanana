@@ -422,6 +422,12 @@ intel         Intel Corporation
                 mats.d.wichmann
                 at intel.com
 
+intelerad     Intelerad Medical Systems Inc.
+		http://www.intelerad.com
+		Benjamin Ash
+		bash
+		at intelerad.com
+
 intershop     Intershop
 		t.boehm
 		at intershop.com
