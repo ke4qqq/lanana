@@ -119,6 +119,7 @@ dcfs	Ingenieurbüro Dr. Utcke	sven.utcke@dr-utcke.de
 db2icd	IBM DB2 Universal Database Information Center	ihakes@ca.ibm.com
 dbbalancer	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 ddclient	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+ddrtd	NetApp, Inc	geoff.bain@netapp.com	start/stop the ddrtd daemon	http://www.netapp.com
 ddt-client	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 ddt-server	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 decnet	Reserved for LSB-Compliant Distributions	lsb@lanana.org

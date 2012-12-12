@@ -243,6 +243,8 @@ dbbalancer                               Reserved for LSB-Compliant Distribution
                                                                                                  
 ddclient                                 Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
+ddrtd                                    NetApp, Inc                                             geoff.bain@netapp.com
+                                         start/stop the ddrtd daemon                             http://www.netapp.com
 ddt-client                               Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 ddt-server                               Reserved for LSB-Compliant Distributions                lsb@lanana.org
