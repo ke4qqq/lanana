@@ -428,6 +428,13 @@ intelerad     Intelerad Medical Systems Inc.
 		bash
 		at intelerad.com
 
+interop       Interop Technologies
+		All Interop Technology Software
+		http://www.interoptechnologies.com
+		Josh Collazo
+		tech
+		at interoptechnologies.com
+
 intershop     Intershop
 		t.boehm
 		at intershop.com
@@ -596,6 +603,12 @@ nai           McAfee Inc.
 nerds         Network Evidential Reconstruction of Data Streams
 		bcheese
 		at netspeed.com.au
+
+netapp        NetApp, Inc.
+		http://www.netapp.com
+		Geoff Bain
+		geoff.bain
+		at netapp.com
 
 netronome     La Monte H.P. Yarroll
 		piggy
@@ -1017,9 +1030,21 @@ vvrtspg       Info-Electronics Systems Inc.
 		bernard
 		at info-electronics.com
 
+watchguard    WatchGuard Technologies, Inc.
+		http://www.watchguard.com
+		CM Team
+		cm
+		at watchguard.com
+
 wavelink      Wavelink Corporation
 		mvongunten
 		at wavelink.com
+
+wg            WatchGuard Technologies, Inc.
+		http://www.watchguard.com
+		CM Team
+		cm
+		at watchguard.com
 
 wirelessz     WirelessZ Technologies Ltd.
 		erkka.marjakangas
