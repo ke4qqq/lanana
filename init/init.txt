@@ -1357,10 +1357,14 @@ xttpd                                    Reserved for LSB-Compliant Distribution
                                                                                                  
 yardradius                               Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
+ybfs                                     Yottabyte LLC                                           p4@yottabyte.com
+                                         setup/mount yb filesystem                               http://www.yottabyte.com
 yiff-server                              Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 youbin                                   Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
+yottabyte                                Yottabyte LLC                                           p4@yottabyte.com
+                                         start/stop the ui/api services                          http://www.yottabyte.com
 ypbind                                   Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 yppasswdd                                Reserved for LSB-Compliant Distributions                lsb@lanana.org
