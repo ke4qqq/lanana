@@ -584,6 +584,11 @@ montavista    MontaVista Software, Inc.
                 mhatle
                 at mvista.com
 
+mt            Mettler-Toledo (Albstadt) GmbH
+		Horst Minich
+		horst.minich
+		at mt.com
+
 mw            Moonwalk Universal P/L
 		support
 		at moonwalkinc.com
