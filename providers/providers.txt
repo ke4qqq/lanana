@@ -39,6 +39,10 @@ alct          Alcanet International
 		damien.veillon
 		at alcatel.fr
 
+apcera        Apcera, Inc.
+		noc
+		at apcera.com
+
 appinf        Applied Informatics Software Engineering GmbH.
 		guenter.obiltschnig
 		at appinf.com
