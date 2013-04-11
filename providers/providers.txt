@@ -418,6 +418,12 @@ imgtec        Imagination Technologies Ltd
 		lsb
 		at imgtec.com
 
+incognito     Incognito Software Inc.
+		http://www.incognito.com
+		Andre Kostur
+		akostur
+		at incognito.com
+
 infinirel     infiniRel Corporation
 		doug.knabe
 		at infinirel.com
