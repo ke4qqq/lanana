@@ -255,6 +255,8 @@ devfsd                                   Reserved for LSB-Compliant Distribution
                                                                                                  
 devpts.sh                                Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
+dfshwagent                               DFS Deutsche Flugsicherung GmbH                         pieter.hollants@dfs.de
+                                         Starts the DFS hardware agent                           
 dhclient                                 Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 dhcp                                     Reserved for LSB-Compliant Distributions                lsb@lanana.org

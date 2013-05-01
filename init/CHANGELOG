@@ -144,5 +144,5 @@ susefirewall2_final, dvb, vdr, resmgt (ludwig.nussel@suse.de)
 25 Sep 2012 - Add arangodb for Frank Celler  (f.celler@triagens.de)
 12 Dec 2012 - Add ddrtd for Geoff Bain (geoff.bain@netapp.com)
 18 Dec 2012 - Add ybfs, yottabyte for Paul Hodges IV (p4@yottabyte.com)
-
+30 Apr 2013 - Add dfshwagent for Pieter Hollants (pieter.hollants@dfs.de)
 
