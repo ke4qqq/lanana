@@ -850,6 +850,11 @@ sdm           Shoppers Drug Mart Inc.
 		apetropoulos
 		at shoppersdrugmart.ca
 
+secureworks   SecureWorks
+		Rocky Olsen
+		rolsen
+		at secureworks.com
+
 semantico     Semantico Ltd.
 		lanana
 		at semantico.com
