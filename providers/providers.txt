@@ -1050,6 +1050,12 @@ vvrtspg       Info-Electronics Systems Inc.
 		bernard
 		at info-electronics.com
 
+wandisco      WANdisco
+		http://www.wandisco.com
+		Ben Brown
+		ben.brown
+		at wandisco.com
+
 watchguard    WatchGuard Technologies, Inc.
 		http://www.watchguard.com
 		CM Team
