@@ -1094,6 +1094,11 @@ xisp          Barnhard LLC
 		lanana-contact
 		at xisp.net
 
+yahoo         Yahoo! Inc.
+		Sven Dummer
+		sdummer
+		at yahoo-inc.com
+
 yottabyte     Yottabyte LLC
 		All Interop Technology Software
 		http://www.yottabyte.com
