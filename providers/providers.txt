@@ -82,6 +82,13 @@ baeurer       Sage baeurer GmbH
 		helge.zimpel
 		at sagebaeurer.de
 
+bbp           Ecole Polytechnique Federale de Lausanne
+		Blue Brain Project
+		http://bluebrain.epfl.ch
+		Carlos Aguado
+		carlos.aguado
+		at epfl.ch
+
 bcfg2         Bcfg2
 		http://bcfg2.org/
 		bcfg2
