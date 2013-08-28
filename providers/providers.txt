@@ -150,6 +150,12 @@ centeris      Centeris Corp.
 		info
 		at centeris.com
 
+centos        The CentOS Project
+		http://www.centos.org/
+		Johnny Hughes
+		johnny
+		at centos.org
+
 centrasite    Software AG, Technology Alliance Center
 		technology-alliances
 		at softwareag.com
@@ -484,6 +490,12 @@ janpar        January Party Software
 jssorcerer    DHI Technologies, Inc
 		rudy
 		at dhitechnologies.com
+
+km            Konica Minolta, Inc.
+		Page Pro Printer Drivers
+		Takanori Kamayachi
+		takanori.kamayachi1
+		at konicaminolta.jp
 
 lba           Linux Business Alliance
                 info
