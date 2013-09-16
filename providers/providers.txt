@@ -343,6 +343,12 @@ etm           ETM Aktiengesellschaft, Martin Koller
                 koller
                 at etm.at
 
+exim          Exim
+		http://www.exim.org/
+		Phil Pennock
+		pdp
+		at exim.org
+
 f5            F5 Networks, Inc.
 		http://www.f5.com/
 		Mike Lowell
@@ -868,6 +874,12 @@ sco           The SCO Group (Caldera Systems Inc.)
 sdm           Shoppers Drug Mart Inc.
 		apetropoulos
 		at shoppersdrugmart.ca
+
+seal          SEAL Systems AG
+		http://www.sealsystems.com/
+		Dieter Reuter
+		dieter.reuter
+		at sealsystems.de
 
 secureworks   SecureWorks
 		Rocky Olsen
