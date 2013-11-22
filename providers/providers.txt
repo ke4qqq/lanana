@@ -82,6 +82,11 @@ baeurer       Sage baeurer GmbH
 		helge.zimpel
 		at sagebaeurer.de
 
+bb            Bloomberg LP
+                Kevin Fleming
+                kpfleming
+                at bloomberg.net
+
 bbp           Ecole Polytechnique Federale de Lausanne
 		Blue Brain Project
 		http://bluebrain.epfl.ch
