@@ -404,6 +404,12 @@ fws           Fourth Watch Software LC
 		ldl
 		at linux.com
 
+getup         Getup Cloud
+                http://getupcloud.com/
+                Mateus Caruccio
+                mateus.caruccio
+                at getupcloud.com
+
 gfi           GFi Software Ltd.
 		raphael
 		at gfi.com
