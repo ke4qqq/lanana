@@ -1049,6 +1049,12 @@ uofu          University of Utah, Office of Information Techology
 		support
 		at it.utah.edu
 
+versatushpc   VersatusHPC ltda.
+                http://versatushpc.com.br/
+                Fabricio Cannini
+                fabricio
+                at versatushpc.com.br
+
 vintela       Vintela, Inc.
                 glewis
                 at vintela.com

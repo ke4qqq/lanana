@@ -1266,6 +1266,8 @@ userv                                    Reserved for LSB-Compliant Distribution
 vchkpw                                   Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 vdr                                      SUSE LINUX Products GmbH                                ludwig.nussel@suse.de
+
+versatushpc                              VersatusHPC ltda.                                       fabricio@versatushpc.com.br
                                                                                                  
 vje-delta                                Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  

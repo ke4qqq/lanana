@@ -148,6 +148,7 @@ lsb-teamware      Teamware Group                            ken.barnes@teamware.
 lsb-tet3-lite     The Open Group                            tetware_manager@opengroup.org
 lsb-usermin       The SCO Group (Caldera Systems Inc.)      jcameron@webmin.com
 lsb-vector        Affiliated Computer Services, Inc.        ken.rothermel@acs-inc.com
+lsb-versatushpc   VersatusHPC ltda.                         fabricio@versatushpc.com.br
 lsb-vista         Carter-Pertaine, Inc                      ahoward@cpischool.com
 lsb-vmlcos        VM-Labs, LLC                              paul.perkins@vm-labs.com
 lsb-vmlvsa        VM-Labs, LLC                              paul.perkins@vm-labs.com

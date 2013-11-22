@@ -53,6 +53,7 @@ sysstat
 strs
 teamware
 tmpwatch
+versatushpc
 vmlcos
 vmlvsa
 vmlvsm
