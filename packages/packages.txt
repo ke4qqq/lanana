@@ -86,6 +86,7 @@ lsb-mas		  Mas by Shiman Associates Inc              leon@magic.shiman.com
 lsb-maxdb         MaxDB by MySQL AB                         zak@mysql.com
 lsb-mbc           SoftWell Performance AB                   tomas.ruden@softwell.se
 lsb-momonga       Momonga Project                           muraken@momonga-linux.org
+lsb-motorola      Motorola Solutions, Inc.                  tom.fitzgerald@motorolasolutions.com
 lsb-msec          GFi Software Ltd.                         raphael@gfi.com	
 lsb-mysql         MySQL by MySQL AB                         zak@mysql.com
 lsb-nerds         Network Evidential Reconstruction of Data Streams bcheese@netspeed.com.au

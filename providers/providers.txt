@@ -619,6 +619,11 @@ montavista    MontaVista Software, Inc.
                 mhatle
                 at mvista.com
 
+motorola      Motorola Solutions, Inc.
+                Tom Fitzgerald
+                tom.fitzgerald
+                at motorolasolutions.com
+
 mt            Mettler-Toledo (Albstadt) GmbH
 		Horst Minich
 		horst.minich

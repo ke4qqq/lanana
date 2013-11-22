@@ -216,6 +216,8 @@ cron                                     Reserved for LSB-Compliant Distribution
 crond                                    Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 crossfire-server                         Reserved for LSB-Compliant Distributions                lsb@lanana.org
+
+cscored                                  Motorola Solutions, Inc. Linux SDK for Scanners         tom.fitzgerald@motorolasolutions.com
                                                                                                  
 cst                                      CST GmbH                                                thimo.neubauer@cst.com
                                                                                                  
