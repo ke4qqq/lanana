@@ -22,6 +22,12 @@ adocus        Adocus AB
 		ulf.sjostedt
 		at adocus.com
 
+adva          ADVA Optical Networking SE
+		http://www.advaoptical.com
+		Mike Mezeul
+		MMezeul
+		at advaoptical.com
+
 aerosoft      AeroSoft, Inc.
 		mcgrory
 		at aerosft.com
@@ -38,6 +44,12 @@ ais           Applied Information Systems, Inc.
 alct          Alcanet International
 		damien.veillon
 		at alcatel.fr
+
+altera        Altera Corporation
+		Altera SDK for OpenGL
+		David Neto
+		dneto
+		at altera.com
 
 apcera        Apcera, Inc.
 		noc
@@ -430,6 +442,12 @@ helix         Helix Community
 		dshirzad
 		at real.com
 
+here          HERE (de) GmbH
+		Wikvaya
+		Alexander Weber
+		Alexander.Weber
+		at here.com
+
 hp            Hewlett-Packard Company
                 john.cagle
                 at hp.com
@@ -670,6 +688,12 @@ netronome     La Monte H.P. Yarroll
 		piggy
 		at netronome.com
 
+netvisor      NETvisor Ltd.
+		http://www.netvisor.eu/en/products.html
+		Árpád Bakay
+		arpad.bakay
+		at netvisor.hu
+
 nhj           John Halleck
 		john.halleck
 		at utah.edu
@@ -759,6 +783,13 @@ ost           Open Source Telecom Corp.
 rd            Radiant Data Corporation
 		morreale
 		at radiantdata.com
+
+ros           Open Source Robotics Corporation
+		ROS (The Robot Operating System)
+		www.ros.org
+		Tully Foote
+		tfoote
+		at osrfoundation.org
 
 panda         Panda Software International, S.L.
 		elacunza
@@ -870,6 +901,11 @@ rob           Rob Linux
 		Roberto Taglioretiti, LEICON di Serenella Saccon 
 		roberto.taglioretti
 		at leicon.it
+
+rubies        Ruby Community
+		Hal Brodigan
+		postmodern.mod3
+		at gmail.com
 
 saab          Saab AB
 		anders.ronnbrant

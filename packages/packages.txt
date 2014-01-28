@@ -66,6 +66,7 @@ lsb-gssupporttool 454 Life Sciences                 jesse.keller@roche.com
 lsb-gtm           Fidelity National Information Services    ks.bhaskar@fnis.com
 lsb-gwatchit      Beginfinite, Inc                          mjb@gwava.com	
 lsb-gwava         Beginfinite, Inc                          mjb@gwava.com
+lsb-here-wikvaya  HERE (de) GmbH                            Alexander.Weber@here.com
 lsb-iagent3       Lymeware Corporation                      cfox@lymeware.com
 lsb-idxpki        IDEALX S.A.S.                             mathias.brossard@idealx.com
 lsb-ilec-connectgate Lymeware Corporation                   cfox@lymeware.com
@@ -88,6 +89,7 @@ lsb-mbc           SoftWell Performance AB                   tomas.ruden@softwell
 lsb-momonga       Momonga Project                           muraken@momonga-linux.org
 lsb-motorola      Motorola Solutions, Inc.                  tom.fitzgerald@motorolasolutions.com
 lsb-msec          GFi Software Ltd.                         raphael@gfi.com	
+lsb-motorola-scanner Motorola Solutions, Inc.               tom.fitzgerald@motorolasolutions.com
 lsb-mysql         MySQL by MySQL AB                         zak@mysql.com
 lsb-nerds         Network Evidential Reconstruction of Data Streams bcheese@netspeed.com.au
 lsb-netvision     NetVision, Inc                            jay.adams@netvision.com

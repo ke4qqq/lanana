@@ -106,6 +106,7 @@ crms	SVI Retail	iblackwell@sviretail.com
 cron	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 crond	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 crossfire-server	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+cscored	Motorola Solutions, Inc. Linux SDK for Scanners	tom.fitzgerald@motorolasolutions.com
 cst	CST GmbH	thimo.neubauer@cst.com
 cucipop	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 cups	Reserved for LSB-Compliant Distributions	lsb@lanana.org
@@ -630,6 +631,7 @@ usermin	Caldera Systems Inc. dba The SCO Group	jcameron@webmin.com
 userv	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 vchkpw	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 vdr	SUSE LINUX Products GmbH	ludwig.nussel@suse.de
+versatushpc	VersatusHPC ltda.	fabricio@versatushpc.com.br
 vje-delta	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 vmlcos	VM-Labs, LLC	paul.perkins@vm-labs.com
 vmlvsa	VM-Labs, LLC	paul.perkins@vm-labs.com
@@ -651,6 +653,7 @@ webfs	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 webmin	Caldera Systems Inc. dba The SCO Group	jcameron@webmin.com
 welcome2l	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 whereami	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+wikvaya	HERE Wikvaya	Alexander.Weber@here.com
 winbind	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 wn	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 wondershaper	SuSE LinuxProducts GmbH	hvogel@suse.de
