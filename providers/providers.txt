@@ -46,7 +46,7 @@ alct          Alcanet International
 		at alcatel.fr
 
 altera        Altera Corporation
-		Altera SDK for OpenGL
+		Altera SDK for OpenCL
 		David Neto
 		dneto
 		at altera.com
@@ -780,17 +780,6 @@ ost           Open Source Telecom Corp.
                 dyfet
                 at ostel.com
 
-rd            Radiant Data Corporation
-		morreale
-		at radiantdata.com
-
-ros           Open Source Robotics Corporation
-		ROS (The Robot Operating System)
-		www.ros.org
-		Tully Foote
-		tfoote
-		at osrfoundation.org
-
 panda         Panda Software International, S.L.
 		elacunza
 		at pandasoftware.es
@@ -876,6 +865,10 @@ raptor        Cardiff University
 		smith
 		at cardiff.ac.uk
 
+rd            Radiant Data Corporation
+		morreale
+		at radiantdata.com
+
 real          RealNetworks, Inc.
 		dshirzad
 		at real.com
@@ -901,6 +894,13 @@ rob           Rob Linux
 		Roberto Taglioretiti, LEICON di Serenella Saccon 
 		roberto.taglioretti
 		at leicon.it
+
+ros           Open Source Robotics Foundation
+		ROS (The Robot Operating System)
+		www.ros.org
+		Tully Foote
+		tfoote
+		at osrfoundation.org
 
 rubies        Ruby Community
 		Hal Brodigan
