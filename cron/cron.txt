@@ -6,6 +6,7 @@ armtbase
 armtrep
 aspera
 asdis
+autohalt
 backupexpress
 bayonne
 bcfg2
@@ -29,6 +30,7 @@ galaxy
 glite
 globus
 is
+isarflow-system
 jonas
 lcg
 logrotate

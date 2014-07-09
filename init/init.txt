@@ -19,6 +19,8 @@ aime                                     Reserved for LSB-Compliant Distribution
                                                                                                  
 alamin-server                            Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
+alarmingd                                IsarNet Software Solutions GmbH                         harald.weikert@isarnet.de
+                                                                                                 
 alkahest                                 Alkahest by the Alkahest Initiative                     eric_windham@ncsu.edu
                                                                                                  
 allianz                                  Allianz Insurance                                       rainer.brunold@allianz.at
@@ -115,6 +117,8 @@ bnetd                                    Reserved for LSB-Compliant Distribution
                                                                                                  
 boa                                      Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
+boot.isarflow                            IsarNet Software Solutions GmbH                         harald.weikert@isarnet.de
+                                                                                                 
 bootmisc.sh                              Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 bootparamd                               Reserved for LSB-Compliant Distributions                lsb@lanana.org
@@ -142,6 +146,8 @@ canna                                    Reserved for LSB-Compliant Distribution
 capisuite                                CapiSuite - SuSE Linux AG                               ghillie@suse.de
                                                                                                  
 caudium                                  Reserved for LSB-Compliant Distributions                lsb@lanana.org
+                                                                                                 
+cbqosd                                   IsarNet Software Solutions GmbH                         harald.weikert@isarnet.de
                                                                                                  
 centrifydc                               Centrify Direct Control Suite                           adam.au@centrify.com
                                                                                                  
@@ -485,6 +491,8 @@ ippl                                     Reserved for LSB-Compliant Distribution
                                                                                                  
 ipsec                                    Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
+ipslad                                   IsarNet Software Solutions GmbH                         harald.weikert@isarnet.de
+                                                                                                 
 iptables                                 Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 ipvsadm                                  Reserved for LSB-Compliant Distributions                lsb@lanana.org
@@ -742,6 +750,10 @@ network                                  Reserved for LSB-Compliant Distribution
 networking                               Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 newscache                                NewsCache project Herbert Straub                        herbert@linuxhacker.at
+                                                                                                 
+nfa_scheduler                            IsarNet Software Solutions GmbH                         harald.weikert@isarnet.de
+                                                                                                 
+nfcd                                     IsarNet Software Solutions GmbH                         harald.weikert@isarnet.de
                                                                                                  
 nfs                                      Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
@@ -1124,6 +1136,8 @@ smwd                                     SyAM Software, Inc.                    
 sn                                       Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 snmpd                                    Reserved for LSB-Compliant Distributions                lsb@lanana.org
+                                                                                                 
+snmp_poller                              IsarNet Software Solutions GmbH                         harald.weikert@isarnet.de
                                                                                                  
 snmptrapfmt                              Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  

@@ -7,6 +7,7 @@ adjtimex	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 afs	DeanSoft Co.,Ltd.	michael@deansoft.com.tw	
 aime	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 alamin-server	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+alarmingd	IsarNet Software Solutions GmbH	harald.weikert@isarnet.de
 alkahest	Alkahest by the Alkahest Initiative	eric_windham@ncsu.edu
 allianz	Allianz Insurance	rainer.brunold@allianz.at
 allris	ALLRIS by CC e-gov GmbH	support@cc-egov.de
@@ -55,6 +56,7 @@ blootbot	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 bluetooth	Bluetooth subsystem	marcel@holtmann.org
 bnetd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 boa	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+boot.isarflow	IsarNet Software Solutions GmbH	harald.weikert@isarnet.de
 bootmisc.sh	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 bootparamd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 bpalogin	Reserved for LSB-Compliant Distributions	lsb@lanana.org
@@ -69,6 +71,7 @@ camserv-relay	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 canna	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 capisuite	CapiSuite - SuSE Linux AG	ghillie@suse.de
 caudium	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+cbqosd	IsarNet Software Solutions GmbH	harald.weikert@isarnet.de
 centrifydc	Centrify Direct Control Suite	adam.au@centrify.com
 cern-httpd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 cfsd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
@@ -240,6 +243,7 @@ ipmasq-kmod	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 ipmi	OpenIPMI Project	matt_domsch@dell.com
 ippl	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 ipsec	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+ipslad	IsarNet Software Solutions GmbH	harald.weikert@isarnet.de
 iptables	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 ipvsadm	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 ipx	Reserved for LSB-Compliant Distributions	lsb@lanana.org
@@ -369,6 +373,8 @@ netvision	NetVision, Inc	jay.adams@netvision.com
 network	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 networking	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 newscache	NewsCache project Herbert Straub	herbert@linuxhacker.at
+nfa_scheduler	IsarNet Software Solutions GmbH	harald.weikert@isarnet.de
+nfcd	IsarNet Software Solutions GmbH	harald.weikert@isarnet.de
 nfs	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 nfs-common	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 nfs-kernel-server	Reserved for LSB-Compliant Distributions	lsb@lanana.org
@@ -560,6 +566,7 @@ smtpfeed	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 smwd	SyAM Software, Inc.	michael.daniele@syamsoftware.com
 sn	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 snmpd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+snmp_poller	IsarNet Software Solutions GmbH	harald.weikert@isarnet.de
 snmptrapfmt	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 snort	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 sofistikpsd	SOFiSTiK AG	harald.nikolisin@sofistik.de

@@ -140,3 +140,6 @@
 22 Nov 2013 - Added 'motorola', 'versatushpc', bb', and 'getup'
 27 Jan 2014 - Added 'adva', 'altera', 'here', 'netvisor', 'ros', and 'rubies'
 28 Jan 2014 - Minor corrections to some new providers, order
+08 Jul 2014 - Added 'bats', 'brcm', 'broadcom', 'fedora', 'felicitas',
+                    'iplon', 'isarnet', 'iubaris', 'mdbf', 'pantheon',
+                    'six'; changed contact info for Red Hat
