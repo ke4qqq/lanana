@@ -147,3 +147,4 @@ susefirewall2_final, dvb, vdr, resmgt (ludwig.nussel@suse.de)
 30 Apr 2013 - Add dfshwagent for Pieter Hollants (pieter.hollants@dfs.de)
 22 Nov 2013 - Added versatushpc and cscored
 27 Jan 2014 - Added wikvaya
+08 Jul 2014 - Added alarmingd, boot.isarflow, cbqosd, ipslad, nfa-scheduler, nfcd, and snmp_poller

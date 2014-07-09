@@ -71,6 +71,7 @@ lsb-iagent3       Lymeware Corporation                      cfox@lymeware.com
 lsb-idxpki        IDEALX S.A.S.                             mathias.brossard@idealx.com
 lsb-ilec-connectgate Lymeware Corporation                   cfox@lymeware.com
 lsb-is            WSO2 Inc.                                 sanjayak@wso2.com
+lsb-IsarFlow      IsarNet Software Solutions GmbH           harald.weikert@isarnet.de
 lsb-ivman         Rohan McGovern                            rohan@mcgovern.id.au	
 lsb-ixc-connectgate Lymeware Corporation                    cfox@lymeware.com
 lsb-keep          Concentrico, Inc.                         skirkby@concentrico.net
@@ -82,6 +83,7 @@ lsb-lucent.com-lmpi LucentTechnologies Bell Labs            rbcraig@lucent.com
 lsb-lumenation    Lumen Software                            vitali@lumensoftware.com
 lsb-mandate	  ADS Specialists, Inc.                     gedwards@ads-specialists.com
 lsb-mandateip	  ADS Specialists, Inc.                     gedwards@ads-specialists.com
+lsb-mdbf          MariaDB Foundation                        rasmus@mariadb.org
 lsb-mashup        WSO2 Inc.                                 sanjayak@wso2.com
 lsb-mas		  Mas by Shiman Associates Inc              leon@magic.shiman.com		
 lsb-maxdb         MaxDB by MySQL AB                         zak@mysql.com

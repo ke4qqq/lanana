@@ -94,6 +94,12 @@ baeurer       Sage baeurer GmbH
 		helge.zimpel
 		at sagebaeurer.de
 
+bats          BATS Global Markets, Inc.
+		http://www.bats.com/
+		Chris Winter
+		cwinter
+		at bats.com
+
 bb            Bloomberg LP
                 Kevin Fleming
                 kpfleming
@@ -142,6 +148,16 @@ bmir          Stanford University Center for Biomedical Informatics Research
 bowe          BOWE Bell+Howell
 		vic.tolomei
 		at bowebellhowell.com
+
+brcm          Broadcom Corporation
+		Gregory Fong
+		gregory
+		at broadcom.com
+
+broadcom      Broadcom Corporation
+		Gregory Fong
+		gregory
+		at broadcom.com
 
 brother       Brother Industries, Ltd.
 		hiromi.mori
@@ -376,6 +392,18 @@ faximum       Faximum Software Inc.
                 George.Pajari
                 at faximum.com
 
+fedora        Fedora Project
+		https://fedoraproject.org
+		Tom Callaway
+		tcallawa
+		at redhat.com
+
+felicitas     Felicitas Customized Engineering GmbH
+		http://www.felicitas-ce.de/product/pcbsim/
+		Heinz Hornung
+		Heinz.Hornung
+		at felicitas-ce.de
+
 fis           Fidelity National Information Services
 		ks.bhaskar
 		at fnis.com
@@ -501,10 +529,22 @@ inxb          Inexbee
                 loic.minier
                 at inexbee.com
 
+iplon         iPLON GmbH
+		http://www.iplon.de
+		Thomas Kurz
+		kurz
+		at iplon.de
+
 is            Friedrich Schiller University of Jena, FMI
 		Uwe Richter
 		uwe.richter
 		at uni-jena.de
+
+isarnet       IsarNet Software Solutions GmbH
+		http://www.isarflow.de
+		Harald Weikert
+		harald.weikert
+		at isarnet.de
 
 isl           Imagineer Systems Ltd.
 		wouterk
@@ -513,6 +553,12 @@ isl           Imagineer Systems Ltd.
 ittagteam     IT Tag Team, Inc.
 		syd
 		at ittagteam.com
+
+iubaris       Iubaris Info 4 Media S.L.
+		http://www.iubaris.com/
+		David Lazaro
+		techies
+		at iubaris.com
 
 iz            InterZone
 		mk
@@ -595,6 +641,12 @@ magrasoft     Magrasoft Ltd
 mantara       Mantara Software
 		lsb
 		at mantara.com
+
+mdbf          MariaDB Foundation
+		http://mariadb.org
+		Rasmus Johansson
+		rasmus
+		at mariadb.org
 
 markitserv    MarkitSERV, Inc.
 		http://www.markitserv.com/
@@ -784,6 +836,12 @@ panda         Panda Software International, S.L.
 		elacunza
 		at pandasoftware.es
 
+pantheon      Pantheon Systems, Inc.
+		https://www.getpantheon.com/
+		David Strauss
+		david
+		at getpantheon.com
+
 panthera      Panthera Systems
 		daniel.baumann
 		at panthere-systems.net
@@ -874,7 +932,8 @@ real          RealNetworks, Inc.
 		at real.com
 
 rh            Red Hat, Inc.
-                msw+lsb
+		Tom Callaway
+                tcallawa
                 at redhat.com
 
 rhat          Red Hat, Inc.
@@ -951,6 +1010,12 @@ shibboleth    Shibboleth Project
 		Scott Cantor
 		contact
 		at shibboleth.net
+
+six           SIX Group Services AG
+		http://www.six-group.com/
+		Daniel Zuck
+		Daniel.Zuck
+		at six-group.com
 
 slayfire      SlayFire Software Co. LLC
 		hank
