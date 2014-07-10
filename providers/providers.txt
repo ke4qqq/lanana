@@ -937,7 +937,8 @@ rh            Red Hat, Inc.
                 at redhat.com
 
 rhat          Red Hat, Inc.
-                msw+lsb
+		Tom Callaway
+                tcallawa
                 at redhat.com
 
 reactivity    Reactivity, Inc.
