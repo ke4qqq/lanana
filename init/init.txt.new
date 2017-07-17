@@ -158,6 +158,7 @@ heimdal-kdc               Reserved for LSB-Compliant Distribution lsb@lanana.org
 hostname.dhcp             Reserved for LSB-Compliant Distribution lsb@lanana.org
 hostname.sh               Reserved for LSB-Compliant Distribution lsb@lanana.org
 hotplug                   Reserved for LSB-Compliant Distribution lsb@lanana.org
+hpcbios                   HPCBIOS                                 fotis@cern.ch
 hpoj                      Reserved for LSB-Compliant Distribution lsb@lanana.org
 hpsockd                   Reserved for LSB-Compliant Distribution lsb@lanana.org
 httpd                     Reserved for LSB-Compliant Distribution lsb@lanana.org
