@@ -510,6 +510,11 @@ infinirel     infiniRel Corporation
 		doug.knabe
 		at infinirel.com
 
+intek         Intek
+                Yuriy Kochetkov
+                yuriy.kochetkov
+                at gk-intek.ru
+
 intel         Intel Corporation
                 mats.d.wichmann
                 at intel.com
