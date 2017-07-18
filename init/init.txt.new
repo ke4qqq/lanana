@@ -253,6 +253,7 @@ microcode.ctl             Reserved for LSB-Compliant Distribution lsb@lanana.org
 mimersql                  Upright Database Technology AB Mimer SQ per.bengtsson@upright.se
 modutils                  Reserved for LSB-Compliant Distribution lsb@lanana.org
 mon                       Reserved for LSB-Compliant Distribution lsb@lanana.org
+mongod                    MongoDB, Inc.	                          noc-admin@mongodb.com
 mopd                      Reserved for LSB-Compliant Distribution lsb@lanana.org
 mosix                     Reserved for LSB-Compliant Distribution lsb@lanana.org
 mountall.sh               Reserved for LSB-Compliant Distribution lsb@lanana.org

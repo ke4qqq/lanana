@@ -149,3 +149,4 @@ susefirewall2_final, dvb, vdr, resmgt (ludwig.nussel@suse.de)
 27 Jan 2014 - Added wikvaya
 08 Jul 2014 - Added alarmingd, boot.isarflow, cbqosd, ipslad, nfa-scheduler, nfcd, and snmp_poller
 17 Jul 2017 - Added hpcbios
+18 Jul 2017 - added mongod 

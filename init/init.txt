@@ -677,6 +677,8 @@ momonga                                  Momonga Project                        
                                                                                                  
 mon                                      Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
+mongod                                   MongoDB, Inc.                                           noc-admin@mongodb.com
+                                         start/stop the 'mongod' daemon
 mopd                                     Reserved for LSB-Compliant Distributions                lsb@lanana.org
                                                                                                  
 mosix                                    Reserved for LSB-Compliant Distributions                lsb@lanana.org
