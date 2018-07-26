@@ -1,0 +1,4 @@
+New additions should be made to init.tsv and then run 'fmt.init > init.txt' to generate the file for the website. 
+
+init.tsv is the canonical location of records.
+Commits to init.tsv should be separate from generating init.txt - which should result in a different commit. 

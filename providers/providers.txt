@@ -480,6 +480,12 @@ hp            Hewlett-Packard Company
                 john.cagle
                 at hp.com
 
+hpcbios       HPCBIOS
+                http://hpcbios.readthedocs.org/
+                Fotis Georgatos
+                fotis
+                at cern.ch
+
 ibm           International Business Machines
                 gk4
                 at austin.ibm.com
@@ -503,6 +509,11 @@ incognito     Incognito Software Inc.
 infinirel     infiniRel Corporation
 		doug.knabe
 		at infinirel.com
+
+intek         Intek
+                Yuriy Kochetkov
+                yuriy.kochetkov
+                at gk-intek.ru
 
 intel         Intel Corporation
                 mats.d.wichmann
@@ -695,6 +706,11 @@ molisoft      Molisoft grupo empresarial S.L.
 momonga       Momonga Project
                 muraken
                 at momonga-linux.org
+
+mongodb       MongoDB, Inc.
+                Akshay Kumar
+                noc-admin
+                at mongodb.com
 
 montavista    MontaVista Software, Inc.
                 mhatle

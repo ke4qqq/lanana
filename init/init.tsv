@@ -213,6 +213,7 @@ heimdal-kdc	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 hostname.dhcp	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 hostname.sh	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 hotplug	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+hpcbios	HPCBIOS	fotis@cern.ch
 hplip	HP Linux Imaging and Printing project	david.suffield@hp.com
 hpoj	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 hpsockd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
@@ -335,6 +336,7 @@ mimersql	Upright Database Technology AB Mimer SQL	per.bengtsson@upright.se
 modutils	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 momonga	Momonga Project	muraken@momonga-linux.org
 mon	Reserved for LSB-Compliant Distributions	lsb@lanana.org
+mongod	MongoDB, Inc.	noc-admin@mongodb.com
 mopd	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 mosix	Reserved for LSB-Compliant Distributions	lsb@lanana.org
 mountall.sh	Reserved for LSB-Compliant Distributions	lsb@lanana.org
